@@ -1,0 +1,38 @@
+\newHymn
+\FirstLine{Silent night, holy night}
+
+\begin{verse}[\versewidth]
+
+\indentpattern{000011}
+\begin{patverse}
+\FirstVerse{S}{ilent} night, holy night\\*
+     All is calm, all is bright\\
+  Round yon Virgin Mother and Child\\*
+   Holy Infant so tender and mild\\
+       Sleep in heavenly peace\\*
+       Sleep in heavenly peace
+\end{patverse}
+
+\begin{patverse}
+\flagverse{2}   Silent night, holy night!\\*
+    Shepherds quake at the sight\\
+   Glories stream from heaven afar\\*
+    Heavenly hosts sing Alleluia!\\
+     Christ, the Saviour is born\\*
+     Christ, the Saviour is born
+\end{patverse}
+
+\begin{patverse}
+\flagverse{3} Silent night, holy night\\*
+    Son of God, love's pure light\\
+  Radiant beams from Thy holy face\\*
+  With the dawn of redeeming grace\\
+      Jesus, Lord, at Thy birth\\*
+     Jesus, Lord, at Thy birth
+\end{patverse}
+
+\end{verse}
+
+
+%\Hpoet{Joseph Mohr}{1816}
+\Htrans{John Freeman Young}{ca. 1859}

@@ -1,0 +1,69 @@
+\newHymn
+\FirstLine{Creator of the starry skies}
+
+\settowidth{\versewidth}{An ear to Thy poor suppliants give}
+
+\begin{verse}[\versewidth]
+\begin{altverse}
+\FirstVerse{C}{reator} of the starry skies!\\*
+Eternal Light of all who live!\\*
+Jesu, Redeemer of mankind!\\*
+An ear to Thy poor suppliants give.
+\end{altverse}
+\marginpar{\footnotesize For original see above.}
+
+\begin{altverse}
+\flagverse{2} When man was sunk in sin and death,\\*
+Lost in the depth of Satan's snare,\\*
+Love brought Thee down to cure our ills,\\*
+By taking of those ills a share.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{3} Thou, for the sake of guilty men,\\*
+Causing Thine own pure blood to flow,\\*
+Didst issue from Thy virgin shrine\\*
+And to the Cross a Victim go.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{4} So great the glory of Thy might,\\*
+If we but chance Thy name to sound\\*
+At once all heaven and hell unite\\*
+In bending low with awe profound.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{5} Great Judge of all! in that last day\\*
+When friends shall fail and foes combine,\\
+Be present then with us, we pray,\\*
+To guard us with Thy arm divine.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{6}To God the Father, and the Son,\\*
+All praise and power and glory be;\\
+With Thee, O holy Comforter!\\*
+Henceforth through all eternity.
+\end{altverse}
+
+
+%6. Power, honour, praise, and glory,\\*  %%% Where on earth did these
+% words come from????
+%To God the Father and the Son,\\*
+%And also to the holy Paraclete,\\*
+%While eternal ages run.
+
+\end{verse}
+
+%\Hpoet{}{}
+
+\Htrans{Edward Caswall}{1814--78}
+
+%The hymn Conditor alme siderum was an anonymous text from the 7th century (trans- "Creator of the stars of night") Under Pope
+%Urban VIII, the Roman Breviary was revised in 1632, and this hymn was greatly altered, becoming Creator alme siderum. The hymn
+%in the Liber usualis is Creator alme siderum, which maintains classic Latin poetry meters. The text translates, "Bright builder
+%of the heavenly poles."
+
+
+

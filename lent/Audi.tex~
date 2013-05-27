@@ -1,0 +1,45 @@
+\newHymn
+\FirstLine{Audi, benigne Conditor}
+
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{A}{udi,} benígne Cónditor,\\*
+Nostras preces cum flétibus,\\
+%sacrata in abstinentia 
+In hoc sacro jejúnio.\\*
+Fusas quadragenário. 
+
+\pointtrans
+
+\flagverse{2}Scrutátor alme córdium,
+Infírma tu scis vírium;
+Ad te revérsis éxhibe
+Remissiónis grátiam. 
+
+\flagverse{3}Multum quidem peccávimus,
+Sed parce confiténtibus,
+%tuique laude nominis 
+Ad nóminis laudem tui.
+Confer medélam lánguidis. 
+
+%Sic corpus extra conteri
+%dona per abstinentiam,
+%ieiunet ut mens sobria
+%a labe prorsus criminum. 3
+\flagverse{4}Concéde nostrum cónteri
+Corpus per abstinéntiam
+Culp\emph{ae} ut relínquant pábulum
+Jejúna corda críminum.
+
+
+\flagverse{5}Praesta, beáta Trínitas,
+Concéde, simplex Unitas,
+Ut fructuósa sint tuis
+%Haec parcitátis múnera. Amen. 
+Jejuniórum múnera. Amen.
+
+\end{verse}
+
+%\Hpoet{}
+

@@ -1,0 +1,34 @@
+\newHymn
+
+\FirstLine{O sanctissima, O piissima}
+
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{O}{ sanctissima}, O piíssima\\*
+Dulcis Virgo María\\
+Mater amáta, intermeráta\\*
+Ora, ora pro nobis.
+
+\flagverse{2}Tota pulchra es, O María\\*
+Et mácula non est in te\\
+Mater amata, intermeráta\\*
+Ora, ora pro nobis.
+
+\flagverse{3}Sicut lílium inter spinas\\*
+Sic María inter fílias\\
+Mater amata, intermerata\\*
+Ora, ora pro nobis.
+
+\flagverse{4}In miseria, in angustia\\*
+Ora Virgo pro nobis\\
+Pro nobis ora in mortis hora\\
+Ora, ora pro nobis.
+
+\flagverse{5}Tu solatium et refugium\\*
+Virgo Mater Maria\\
+Quidquid optamus per te speramus\\*
+Ora, ora pro nobis.
+
+\end{verse}
+

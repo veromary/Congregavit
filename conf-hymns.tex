@@ -1,0 +1,431 @@
+%\renewcommand{\headheight}{15pt}
+%%\renewcommand{\headsep}{0pt}
+%%\renewcommand{\topmargin}{-20pt}
+%%\renewcommand{\textwidth}{110mm}
+%\renewcommand{\textheight}{165mm}
+%\addtolength{\textwidth}{6mm}
+%%\addtolength{\voffset}{-22mm}
+%\addtolength{\topmargin}{-22mm}
+%%\addtolength{\hoffset}{-3mm}
+%\addtolength{\evensidemargin}{-3mm}
+%\addtolength{\oddsidemargin}{-3mm}
+
+
+%\newcommand{\copyrightinput}[1]{\input copyright/#1}
+
+\newcommand{\copyrightinput}[1]{\input copyright/#1}
+\newcommand{\unlikely}[1]{\input copyright/#1}
+\newcommand{\permissioned}[1]{\input copyright/#1}
+\newcommand{\FreeAlternative}[1]{}
+
+% For setting the gap between verse numbers and verses:
+\setlength{\vleftskip}{1em}
+
+%\includeonly{devotions}
+
+\graphicspath{{./}{./images/}{./motets/}{./chant/}{./rounds/}}
+
+\DeclareGraphicsExtensions{.pdf}
+
+%\renewcommand*\oldstylenums[1]{{\fontfamily{fxlj}\selectfont #1}}
+
+\def\atitle#1{{\centering %\textbf
+                       {\Large \scshape #1}\par}}
+
+\def\heading#1{{\centering \textsc{\large #1}\par}}
+
+\def\smallhead#1{{\centering \textit{#1}\par}}
+
+%\def\rubrics#1{{\centering \textcolor{red}{#1} \par}}
+\def\rubrics#1{{\centering \emph{#1} \par}}
+
+
+\newcommand{\sideResponse}[2]{\makebox[\hsize]{#1 \hfill%
+            \begin{rotate}{-90}\textit{#2}\end{rotate}\hskip6pt}}
+
+
+%\newcommand{\westThumb}[2]{}%\addthumb{#1}{\footnotesize\textbf{#2}}{white}{black}}
+
+
+%\newcommand\sottovoce{\footnotesize}
+\newenvironment{sottovoce}{\begin{multicols}{2}\footnotesize}%
+{\end{multicols}}
+
+\newenvironment{indentedVerse}[1][2]{%
+              \addtolength{\leftmargin}{3em}
+	      \addtolength{\vleftskip}{-1em}}%
+       {\addtolength{\leftmargin}{-3em}%
+       \addtolength{\vleftskip}{1em}}
+
+
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\parindent}{0pt}
+\setlength{\stanzaskip}{6pt plus 2pt minus 1pt}
+
+%\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+%\renewcommand{\subsectionmark}[1]{\markboth{#1}{}}
+
+% \pagestyle{empty}
+% \fancyhead{}
+% \fancyfoot{}
+% \fancyhead[LE,RO]{\thepage}
+% \fancyhead[EC]{\scshape \nouppercase \leftmark}
+% \fancyhead[OC]{\scshape \rightmark}
+
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+\newcounter{hymnNo}
+%\newcounter{numVerbum}
+%\newcounter{numTantum}
+%\newcounter{numReceiveOFather}
+%\newcounter{numTemp}
+
+
+
+%
+% cludgy way to handle old/new style numerals
+%
+
+%\newcommand\upnums[1]{{\fontfamily{fxl}\selectfont #1}}
+%\newcommand\upnums[1]{{#1}}
+%\newcommand\upnums[1]{\textl{#1}}
+\newcommand\upnums[1]{{\addfontfeature{Numbers=Lining} #1}}
+
+%
+% Memoir redefines the index package
+%
+
+%\makeindex
+%\newindex[thehymnNo]{aut}{adx}{and}{Index of Authors}
+%\renewindex[thehymnNo]{default}{idx}{ind}{Index of First Lines}
+
+
+
+\newcommand\sidenote[1]{}
+
+\def\marginote#1{\marginpar{\textsf{%\footnotesize 
+                                      \scshape #1}}}
+
+\def\stand{\marginote{\vskip2pt Stand}}
+\def\sit{\marginote{\quad Sit}}
+\def\kneel{\marginote{Kneel}}
+\def\HMstand{\marginote{Sung\vskip-3pt Mass\vskip-3pt Stand}}
+\def\ringbell{\marginote{\includegraphics[width=5mm]{bell}}}
+\def\threebell{\marginote{\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}}}
+
+
+% my First Line
+% sets the width of the verse
+% indexes the first line
+
+\newcommand\FirstLine[1]{%\stepcounter{hymnNo}%
+    \firstlindex{#1}%
+    \settowidth{\versewidth}{#1}}
+
+\newcommand\newHymn{\refstepcounter{hymnNo}}
+
+\newcommand\fortranC[1]{{\rightline{\footnotesize{For translation, see
+#1}}}}
+\newcommand\fororigC[1]{{\rightline{\footnotesize{For original, see
+#1}}}}
+
+%\newcommand\pointtrans{\marginpar{\footnotesize Translation follows.}}%
+\newcommand\pointtrans{\marginpar{\raggedright\footnotesize For English see below.}}
+
+%\newcommand\pointorig{\marginpar{\footnotesize Original precedes.}}%
+\newcommand\pointorig{\marginpar{\raggedright\footnotesize For original see above.}}
+
+
+%\newcommand\fortranC[1]{{\small \centering [\textit{For translation, see #1}]}}
+
+%From the verse package:
+
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+\newcommand{\attrib}[1]{%
+   \nopagebreak{\raggedleft\footnotesize #1\par}}
+
+
+%
+%
+%  Putting all the initials together
+%
+%
+
+\setgrefactor{12}
+\def\greinitialformat#1{%
+%{\color{red}\fontsize{24}{24}\fontencoding{T1}\fontfamily{anavio}\selectfont #1}}
+{\fontsize{24}{24}\textbf{#1}}}
+
+%\renewcommand{\LettrineFontHook}{\fontencoding{T1}\color{red}\fontfamily{anavio}}
+\renewcommand{\LettrineFontHook}{\anavio}
+
+
+% my First Verse sets the first word in small caps with a bold initial
+% plus puts the hymn number in the left margin
+
+%\newcommand\initialV[2]{{\LARGE \scshape {\fontencoding{T1}\fontfamily{anavio}\selectfont\color{red}{#1}}\normalsize{#2}}}%
+\newcommand\initialV[2]{{\LARGE {%\fontencoding{T1}\fontfamily{anavio}\selectfont
+\anavio\textbf{#1}}\normalsize\textsc{#2}}}%
+
+\newcommand\FirstVerse[2]{%\stepcounter{hymnNo}%
+                 \hskip-\leftmargin\hskip\vindent%
+%		 \rlap{%\fontfamily{fxl}\selectfont 
+                 \makebox[0cm][l]{%
+		        \bfseries \huge\upnums{\thehymnNo}}%
+		 \hskip\leftmargin\hskip-\vindent\ignorespaces%
+		 {\initialV{#1}{#2}}}
+
+% my Hymn Title sets the title in small caps
+% and indexes the title
+% plus puts the hymn number in the left margin
+% for litanies
+
+\newcommand\HymnTitlesc[1]{%\stepcounter{hymnNo}%
+%   \specialindex{firstlines}{hymnNo}{#1|upnums}%
+    \firstlindex{#1}%
+   \makebox[0cm][l]{%\fontfamily{fxl}\selectfont 
+                 \bfseries \huge\upnums{\thehymnNo}}%
+   \centerline{ \scshape #1} \vskip-5pt}
+
+\newcommand\HymnTitleit[1]{%\stepcounter{hymnNo}%
+%   \specialindex{firstlines}{hymnNo}{#1|upnums}%
+    \firstlindex{#1}%
+   \makebox[0cm][l]{%\fontfamily{fxl}\selectfont 
+                 \bfseries \huge\upnums{\thehymnNo}}%
+   \centerline{ \itshape #1} \vskip-5pt}
+
+\newcommand\HymnTitleInVerse[1]{%
+%   \specialindex{firstlines}{hymnNo}{#1|upnums}%
+    \firstlindex{#1}%
+   \hskip-\leftmargin\hskip\vindent%
+%   \rlap{%\fontfamily{fxl}\selectfont 
+   \makebox[0cm][l]{%
+                  \bfseries \huge\upnums{\thehymnNo}}%
+   \hskip\leftmargin\hskip-\vindent\ignorespaces%
+   \makebox[\versewidth][c]{\itshape #1}\par }
+
+\newcommand\JustHymnNum{{%\fontfamily{fxl}\selectfont 
+\bfseries \huge\upnums{\thehymnNo}}\par\vskip-5pt}
+
+\newcommand\JustHymnNumInVerse{\hskip-\leftmargin\hskip\vindent%
+%		 \rlap{%\fontfamily{fxl}\selectfont 
+                 \makebox[0cm][l]{%
+		        \bfseries \huge\upnums{\thehymnNo}}%
+		 \hskip\leftmargin\hskip-\vindent\ignorespaces}
+
+\newcommand\Htitle[1]{\specialindex{sources}{hymnNo}{#1}}
+\newcommand\Hpoet[2]{\specialindex{sources}{hymnNo}{#1}\rightline{\footnotesize{#1, #2}}}
+\newcommand\Htrans[2]{\specialindex{sources}{hymnNo}{#1}\rightline{\footnotesize{Tr. #1, #2}}}
+\newcommand\Hmeter[1]{}%{\footnotesize #1}}
+\newcommand\Hsource[2]{}%{\footnotesize #1, #2}}
+\newcommand\Hnote[1]{\rightline{\footnotesize{#1}}}
+\newcommand\Hlnote[1]{{\raggedleft\footnotesize #1\par}}
+\newcommand\Hcopyright[2]{}
+\newcommand\Htune[1]{\rightline{\footnotesize{#1}}}
+
+%\renewcommand\source[1]{\rightline{\footnotesize #1}}
+%\setcounter{secnumdepth}{-1}
+\newlength{\gcolwidth}
+\setlength{\gcolwidth}{0.48\textwidth}
+
+\def\latin#1{%
+\selectlanguage{latin}
+\ParallelLText{#1\strut}%
+\selectlanguage{british}%
+\relax %
+}
+
+\def\vern#1{%
+\ParallelRText{#1\strut}%
+%\ParallelLText{\ \vspace*{1mm}}\ParallelRText{\ \vspace*{1mm}}%
+\ParallelPar %
+%\kern -1mm%
+\relax %
+}
+
+\def\firstlatin#1#2#3{%
+\latin{%
+\noindent\begin{minipage}[t]{\ParallelLWidth}%
+\lettrine{#1}{#2}#3\strut%\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+%\vspace{-0.2cm}%
+}
+
+\def\firstvern#1#2#3{%
+\vern{%
+\noindent\begin{minipage}[t]{\ParallelRWidth}%
+\lettrine{#1}{#2}#3\strut%\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%\vspace{-0.2cm}%
+}
+
+\def\firstlatincludge#1#2#3{%
+\latin{%
+\noindent\begin{minipage}[b]{\ParallelLWidth}%
+\lettrine{#1}{#2}#3\strut%\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+%\vspace{-0.2cm}%
+}
+
+\def\firstverncludge#1#2#3{%
+\vern{%
+\noindent\begin{minipage}[b]{\ParallelRWidth}%
+\lettrine{#1}{#2}#3\strut%\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%\vspace{-0.2cm}%
+}
+
+\newdimen\temp 
+\def\twocolspace#1{%
+\temp=#1%
+\advance\temp by 1mm%
+\latin{\ \vspace{\temp}}\vern{\ \vspace{\temp}}%
+\kern -1mm%
+\relax %
+}
+
+\def\s{\relax}
+
+\newcommand\source[1]{\rightline{\footnotesize #1}}
+
+%\newlength\ay
+%\newlength\bee
+
+%\newcommand\lateng[3]{\setlength{\ay}{0.48\columnwidth}
+%                      \setlength{\bee}{0.48\columnwidth}
+%                      \advance\ay by -#1
+%                      \advance\bee by #1
+%                      \noindent\begin{minipage}[t]{\ay}#2\strut
+%                      \end{minipage}\hfill{}
+%                      \noindent\begin{minipage}[t]{\bee}#3\strut
+%                      \end{minipage}{\smallskip}}
+
+%\renewcommand\rubrics[1]{\noindent\textit{#1}}
+
+%\newcommand\sidenote[1]{}
+
+%\newenvironment{scoles}
+%		{\onehalfspacing
+%		\setlength{\parskip}{\smallskipamount}
+%		\setlength{\parindent}{0pt}}
+%		{\singlespacing}
+
+%\def\hymn#1{\subsection*{#1}\index{#1}}
+
+\newlength{\latengoffset}
+
+%\newenvironment{psalmmode}
+%	       {\begin{list}{}{%
+%		     \setlength{\itemindent}{-2em}
+%		     \setlength{\listparindent}{-2em}
+%		     \setlength{\parsep}{1pt}
+%		     \setlength{\topsep}{0pt}
+%%		     \setlength{\rightmargin}{\leftmargin}
+%		   }
+%		   \item[]\ignorespaces}
+%	       {\unskip\end{list}}
+
+
+%
+% New wonderful Rbar and Vbar
+%
+% Using Paul Lloyd's Anavio font
+%
+% To blend with 11pt Romande
+%
+
+%\newfontface{\elevenVR}[Size=11]{Linux Libertine Capitals O Semibold}
+
+\renewcommand\Vbar{\makebox[1em][l]{\versicles v}}
+\renewcommand\Rbar{\makebox[1em][l]{\versicles r}}
+\newcommand\Pnobar{\makebox[1em][l]{\textsc{p.}}}
+\renewcommand\Abar{\makebox[1em][l]{\versicles a}}
+
+\newcommand\maltese{{\tiny \cruci V}\ }
+
+\font\gregoriansymbolfont=gresym at 12pt
+
+\def\grestar{% the other (multimulti-pointed) star is char 69. 
+{\gregoriansymbolfont \char 71}%71
+\relax %
+}
+\font\textgregoriansymbolfont = gresym at 12 pt
+
+\def\textgrestar{% the other (multimulti-pointed) star is char 69. 
+{\textgregoriansymbolfont \char 71}%71
+\relax %
+}
+
+\newbox\linkbox
+\newbox\wordbox
+%\newdimen\boxwid
+
+\def\lyrlink{%
+  % Bogen erstellen: Put the smilie in the box:
+  \setbox\linkbox=\hbox{$\smile$}%
+  % In Box der Breite eines Wortzwischenraums einsetzen:
+  % Make the box one space wide:
+  \setbox\linkbox=\hbox to\the\fontdimen2\the\font{%
+    \hss
+    % Unter die Grundlinie druecken:
+    % Lower the box under the word:
+    \lower\ht\linkbox\hbox{%
+      % Zusaetzlicher vertikaler Abstand zur Wortunterseite:
+      % lower the smile a little bit more:
+      \lower1pt\hbox{%
+	\relax
+	  \hbox{$\smile$}%
+	}}%
+    \hss}%
+  % Keine zusaetzliche Tiefe fuer Bogen anrechnen:
+  % Make the depth of the box zero:
+  \dp\linkbox=0pt
+  % Bogen setzen:
+  \box\linkbox}
+
+\def\intralink#1{%
+  \setbox\linkbox=\hbox{$\smile$}%
+  \setbox\wordbox=\hbox{#1}%
+  \setbox\linkbox=\hbox to\wd\wordbox{%
+    \hss
+    % Unter die Grundlinie druecken:
+    % Lower the box under the word:
+    \lower\ht\linkbox\hbox{%
+      % Zusaetzlicher vertikaler Abstand zur Wortunterseite:
+      % lower the smile a little bit more:
+      \lower1pt\hbox{%
+	\relax
+	  \hbox{$\smile$}%
+	}}%
+    \hss}%
+  % Keine zusaetzliche Tiefe fuer Bogen anrechnen:
+  % Make the depth of the box zero:
+  \dp\linkbox=0pt
+%  \let\boxwid=\the\wd\wordbox
+%  \lower\ht\linkbox%
+  \box\wordbox \llap{\box\linkbox}}
+
+\newsavebox{\annotinbox}
+\newlength{\annotheight}
+
+\newcommand\annotinverse[1]{\savebox{\annotinbox}{\parbox{5cm}{\raggedleft\scriptsize #1 }}%
+\vskip-\baselineskip%
+\settoheight{\annotheight}{\usebox{\annotinbox}}%
+\addtolength{\annotheight}{\baselineskip}%
+\hskip-\leftmargin\hskip\vindent\raisebox{-\annotheight}[0pt][0pt]{\makebox[\hsize]{\hfill \usebox{\annotinbox}}}}
+
+\newenvironment{psalmmode}
+	       {\vskip-\baselineskip\begin{list}{}{%
+		     \setlength{\itemindent}{-2em}
+		     \setlength{\listparindent}{-2em}
+		     \setlength{\parsep}{1pt}
+		     \setlength{\topsep}{0pt}
+%		     \setlength{\rightmargin}{\leftmargin}
+		   }
+		   \item[]\ignorespaces}
+	       {\unskip\end{list}}
+
+

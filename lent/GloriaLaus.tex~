@@ -1,0 +1,40 @@
+\newHymn
+\JustHymnNum
+%\HymnTitleit{Rorate caeli desuper}
+\FirstLine{Gloria laus et honor tibi sit}
+\settowidth{\versewidth}{own dew, ye heavens, from above, and let
+the clou}
+{\gresetfirstlineaboveinitial{Ant}{nn}
+\includescore{gabc/glorialaus.tex}
+\gresetfirstlineaboveinitial{}{}
+}
+\pointtrans
+\begin{verse}[\versewidth]
+
+\flagverse{1}
+
+\flagverse{2}Peccávimus, et facti sumus tamquam immúndus nos, et cecídimus quasi
+fólium univérsi:\\
+et iniquitátes nostrae quasi ventus
+abstulérunt nos:\\
+abscondísti fáciem tuam a nobis,\\
+et allisísti nos in manu iniquitátis nostrae.
+
+\end{verse}
+
+\Hlnote{Be comforted, be comforted, My people;\\
+thy salvation shall speedily
+come.\\
+Why wilt thou waste away in sadness? why hath sorrow
+seized thee?\\
+I will save thee; fear not:\\
+for I am the Lord thy God, the Holy One of Israel, thy Redeemer.
+}
+
+%\begin{verse}[\versewidth]
+
+%\flagverse{Ant}Rorate caeli desuper, et nubes pluant iustum.
+
+%\end{verse}
+
+

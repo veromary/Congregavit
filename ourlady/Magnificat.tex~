@@ -1,0 +1,97 @@
+\newHymn
+
+\FirstLine{Magnificat anima mea Dominum}
+%\JustHymnNum
+
+\HymnTitlesc{Canticum Beatae Mariae Virginis}
+
+\settowidth{\versewidth}{Et exsultávit spíritus méus~* in Déo salutári méo.}
+%\begin{verse}[\versewidth]
+
+\bigskip
+
+{\parskip=0mm
+
+\parbox{1em}{1} Magníficat * ánima mea Dóminum.
+%\addtocounter{enumi{1
+
+\pointtrans
+
+\parbox{1em}{2} Et exsultávit spíritus méus~* in Déo salutári méo.
+
+\parbox{1em}{3} Quia respéxit humilitátem ancíllae súæ~:~* ecce enim ex hoc beátam me dícent ómnes generatiónes.
+
+\parbox{1em}{4} Quia fécit míhi mágna qui pótens est~:~* et sánctum nómen éjus.
+
+\parbox{1em}{5} Et misericórdia éjus a progénie in progénies~* timéntibus éum.
+
+\parbox{1em}{6} Fécit poténtiam in bráchio súo~:~* dispérsit supérbos ménte córdis súi.
+
+\parbox{1em}{7} Depósuit poténtes de séde,~* et exaltávit húmiles.
+
+\parbox{1em}{8} Esuriéntes implévit bónis~:~* et dívites dimísit inánes.
+
+\parbox{1em}{9} Suscépit Israel púerum súum,~* recordátus misericórdiæ súæ.
+
+\parbox{1em}{10} Sicut locútus est ad pátres nóstros,~* Abraham et sémini éjus in saécula.
+
+\parbox{1em}{11} Glória Pátri, et Fílio,~* et Spirítui Sáncto.
+
+\parbox{1em}{12} Sicut érat in princípio, et núnc, et sémper,~* et in sǽcula sæculórum. Amen.
+
+}
+%\end{verse}
+
+
+
+\newHymn
+
+\FirstLine{My soul doth magnify the Lord}
+
+\HymnTitlesc{Canticle of the Blessed Virgin Mary}
+\settowidth{\versewidth}{Et exsultávit spíritus méus~* in Déo salutári méo.}
+%\begin{verse}[\versewidth]
+
+\bigskip
+
+{\parskip=0mm
+
+\parbox{1em}{1} My soul doth magnify the Lord.
+%\parbox{1em}{2} 
+2 And my spirit hath rejoiced in God my Saviour. 
+
+\pointorig
+
+
+\parbox{1em}{3} Because He hath regarded the humility of His handmaid; for behold from henceforth all generations shall call me blessed.
+
+\parbox{1em}{4} Because He that
+is mighty hath done great things to me; and holy is His Name. 
+
+\parbox{1em}{5} And His mercy is from generation unto generations, to them
+that fear Him.
+
+%[48] Shall call me blessed: These words are a prediction of that honour which the church in all ages should pay to the Blessed
+%Virgin. Let Protestants examine whether they are any way concerned in this prophecy.
+
+\parbox{1em}{6} He hath shewed might in His arm: He hath scattered the proud in the conceit of their heart. 
+
+\parbox{1em}{7} He hath put down the mighty from their seat, and hath exalted the humble. 
+
+\parbox{1em}{8} He hath filled the hungry with good things; and the rich He hath
+sent empty away. 
+
+\parbox{1em}{9} He hath received Israel His servant, being mindful of His mercy: 
+
+\parbox{1em}{10} As He spoke to our fathers, to
+Abraham and to his seed for ever.
+
+\parbox{1em}{11}Glory be to the Father and to the Son, and to the Holy Ghost.
+
+\parbox{1em}{12}As it was in the beginning, is now and ever shall be, world without end.  Amen.
+
+%\end{verse}
+
+}
+
+

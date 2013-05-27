@@ -1,0 +1,46 @@
+
+\newHymn
+\FirstLine{Come down, O love divine}
+\settowidth{\versewidth}{Come down o love divine and help me}
+\begin{verse}[\versewidth]
+%\indentpattern{001001}
+%\begin{patverse}
+\FirstVerse{C}{ome} down, O Love Divine,\\*
+Seek Thou this soul of mine,\\*
+\hspace*{-\vgap} And visit it with Thine own ardor glowing.\\
+O Comforter, draw near,\\*
+Within my heart appear,\\*
+\hspace*{-\vgap} And kindle it, Thy holy flame bestowing.
+%\end{patverse}
+
+%\begin{patverse}
+\flagverse{2}O let it freely burn,\\*
+'Til earthly passions turn\\*
+\hspace*{-\vgap} To dust and ashes in its heat consuming;\\
+And let Thy glorious light\\*
+Shine ever on my sight,\\*
+\hspace*{-\vgap} And clothe me round, the while my path illuming.
+%\end{patverse}
+
+%\begin{patverse}
+\flagverse{3}Let holy charity\\*
+Mine outward vesture be,\\*
+\hspace*{-\vgap} And lowliness become mine inner clothing;\\
+True lowliness of heart,\\*
+Which takes the humbler part,\\*
+\hspace*{-\vgap} And o’er its own shortcomings weeps with loathing.
+%\end{patverse}
+
+%\begin{patverse}
+\flagverse{4}And so the yearning strong,\\*
+With which the soul will long,\\*
+\hspace*{-\vgap} Shall far outpass the power of human telling;\\
+For none can guess its grace,\\*
+'Till he become the place\\*
+\hspace*{-\vgap} Wherein the Holy Spirit makes His dwelling.
+%\end{patverse}
+\end{verse}
+
+\Hpoet{Bianco of Siena}{d.1434}
+\Htrans{Richard F.~Littledale}{1833--1890}
+

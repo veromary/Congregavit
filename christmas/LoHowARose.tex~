@@ -1,0 +1,40 @@
+\newHymn
+
+\FirstLine{Lo, how a Rose e'er blooming}
+
+\begin{verse}[\versewidth]
+\begin{altverse}
+\FirstVerse{L}{o!} how a Rose e'er blooming\\*
+From tender stem hath sprung,\\
+Of Jesse's lineage coming,\\*
+As men of old hath sung;\\
+It came, a flow'ret bright,\\*
+Amid the cold of winter,\\*
+When half-spent was the night.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{2}Isaiah 'twas foretold it,\\*
+The Rose I have in mind.\\
+With Mary we behold it,\\*
+The Virgin Mother kind;\\
+To show God's love aright,\\*
+She bore to men a Saviour,\\*
+When half-spent was the night.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{3}O Flower, whose fragrance tender,\\*
+With sweetness fills the air,\\
+Dispel with glorious splendour\\*
+The darkness everywhere.\\
+True man, yet very God,\\*
+From sin and death now save us,\\*
+And share our every load.
+\end{altverse}
+\end{verse}
+
+\Hnote{Theodore Baker}{1851--1934}
+
+% Source Psalter Hymnal via Wikipedia
+

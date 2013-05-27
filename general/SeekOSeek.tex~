@@ -1,0 +1,34 @@
+\newHymn
+\FirstLine{Seek, O Seek the Lord, while he is near}
+\JustHymnNum
+\begin{verse}[\versewidth]
+
+\begin{indentedVerse}
+\flagverse{Antiphon}\vin \initialV{S}{eek,} O seek the Lord, while he is near;\\*
+\vin Trust him, speak to him in prayer,\\*
+\vin And he will hear.
+\end{indentedVerse}
+
+\flagverse{1}God, be with us in our lives,\\*
+Direct us in our calling;\\
+Break the snares the world contrives,\\*
+Keep us from falling.
+
+\flagverse{Refrain}Seek, O seek the Lord, while he is near;\\*
+trust him, speak to him in prayer,\\*
+and he will hear.
+
+\flagverse{2}God, increase in us the life\\*
+That Christ by dying gave us:\\
+Though we faint in mortal strife\\*
+His blood will save us.
+
+\flagverse{3}Strengthen in our hearts the love\\*
+We owe to one another;\\
+How can we love God above\\*
+And not our brother?
+
+\end{verse}
+
+
+\Hpoet{James McAuley}{1917--76}

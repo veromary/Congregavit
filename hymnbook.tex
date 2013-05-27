@@ -1,0 +1,262 @@
+\documentclass[ebook,11pt,twoside,openany]{memoir}
+\usepackage[british,latin]{babel}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+%\setmainfont[Numbers=OldStyle]{Linux Libertine O}
+\setmainfont{EB Garamond}
+\setsansfont{Linux Biolinum O}
+\newfontfamily{\anavio}{EB Garamond}
+%\newfontfamily{\vectis}{Vectis}
+\newfontface{\vectis}{Vectis Bold}
+\newfontfamily{\libertine}{Linux Libertine O}
+\newfontface{\versicles}{Versiculum}
+\newfontface{\cruci}{Juuji}
+\usepackage{mparhack}
+\usepackage{rotating}
+\usepackage{parallel}
+\usepackage{multicol}
+% Multicol in the Litanies
+\usepackage{fncylab}
+\usepackage{lettrine}
+\usepackage{graphicx}
+\usepackage{gregoriotex}
+\settrimmedsize{9in}{6in}{*}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+\settypeblocksize{190mm}{106mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.4}
+\setlrmargins{*}{*}{1.6}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
+
+\usepackage{fancytabs}
+\usepackage{metalogo}
+
+\input conf-hymns.tex
+
+%\pretolerance 140
+%\tolerance 300
+%\hbadness 141
+%\setlength{\emergencystretch}{1em}
+%\hfuzz 0.3pt
+%\widowpenalty=10000
+%\vfuzz \hfuzz
+
+\renewcommand{\copyrightinput}[1]{}
+\renewcommand{\unlikely}[1]{}
+\renewcommand{\permissioned}[1]{}
+\renewcommand{\FreeAlternative}[1]{\input #1}
+
+%\renewcommand{\textbf}[1]{\pdfliteral direct {2 Tr 0.3 w}{\addfontfeature{FakeStretch=1.1} #1}{0 Tr 0 w}}
+
+\makeindex[firstlines]
+\makeindex[sources]
+\makeindex[prayers]
+\onecolindextrue
+\newcommand\firstlindex[1]{\specialindex{firstlines}{hymnNo}{#1|upnums}}
+\newcommand\prayerindex[1]{\specialindex{prayers}{page}{#1}}
+\makepagestyle{index}
+%\makeheadrule{index}{\textwidth}{\normalrulethickness}
+\makeevenhead{index}{\thepage\\ \ }{\scshape Index of Hymns\\ \ }{\ \\ \scshape \tiny Hymn}
+\makeoddhead{index}{}{\scshape Index of Hymns\\ \ }{\thepage \\ \scshape \tiny Hymn}
+\makeevenfoot{index}{}{}{}
+\makeoddfoot{index}{}{}{}
+
+\newcommand{\myidxitem}  {\par\hangindent 40pt}
+
+\newenvironment{prayindex}{%
+  \preindexhook
+  \parindent0mm
+  \parskip0mm plus .3pt\relax
+  \let\item\myidxitem}%
+{\par\relax}
+
+%\includeonly{}
+
+\def\tabmark{}
+
+\renewcommand{\DefaultOptionsFile}{optfile.cfl}
+
+
+\newcommand\chaphead{}
+\makepsmarks{headings}{%
+ \def\chaptermark##1{\markboth{##1}{##1}}% left and right marks
+ \def\sectionmark##1{\markright{##1}}
+}
+
+\makeoddhead{plain}{\fancytab{%\textcolor{black}{
+                    \tabmark}{\thechapter}}{}{}
+\makeoddhead{headings}{\fancytab{%\textcolor{black}{
+                       \tabmark}{\thechapter}}{\scshape\rightmark}{\thepage}
+\makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
+\pagestyle{headings}
+
+\fancytabsFloor{1}% to switch off tabs on the contents page
+\fancytabsCount{4}
+\fancytabsHeight{1.8in}
+%\fancytabsWidth{1.5cm} trying to get tabs to overlap the margin
+
+\pretitle{\bigskip \par \begin{center}\HUGE\vectis}
+\posttitle{\par\end{center}\vskip0.5em}
+\preauthor{\bigskip\begin{center}
+           \LARGE \scshape \lineskip 0.5em%
+           \begin{tabular}[t]{c}}
+\postauthor{\end{tabular}\par\end{center}}
+\predate{\bigskip\begin{center}\large}
+\postdate{\par\end{center}}
+
+\makechapterstyle{stMary}{
+\renewcommand\beforechapskip{30pt}
+\renewcommand\midchapskip{0pt}
+\renewcommand\afterchapskip{20pt}
+\renewcommand\chapternamenum{}
+\renewcommand\printchaptername{}
+\renewcommand\printchapternum{}
+\renewcommand\chaptitlefont{\huge\scshape\centering}
+}
+\chapterstyle{stMary}
+
+%
+% chapters need numbers for fancytabs to work
+% try this to turn off section numbers
+%
+\setsecnumdepth{chapter}
+
+\setsecheadstyle{\LARGE\scshape\centering}
+\setsubsecheadstyle{\Large\scshape\centering}
+\setsubsubsecheadstyle{\large\scshape\centering}
+
+%\usepackage{lipsum}
+
+
+\def\paracoltest{
+~ ~ ~
+
+\vskip-\baselineskip
+}
+
+
+%\includeonly{servermass,kyriale}
+
+\begin{document}
+\pagenumbering{arabic}
+\selectlanguage{british}
+
+\labelformat{hymnNo}{\upnums{#1}}
+
+\title{Congregavit nos in unum}
+
+%\date{22nd November 2011}
+
+\author{Veronica Brandt}
+
+{
+
+\ 
+
+%\maketitle
+
+%\centerline{version 3.00}
+
+\vfill
+
+\begin{center}
+{\HUGE \vectis Congregavit nos in Unum}
+
+\vskip12em
+
+{\scshape \Large a pew book}
+
+\vskip6em
+
+\end{center}
+
+\vfill
+}
+
+\thispagestyle{empty}
+
+\pagestyle{empty}
+
+\newpage
+
+~
+
+\vfill
+
+\input acknowledgements.tex
+
+\eject
+
+\tableofcontents*
+
+\pagestyle{headings}
+
+\include{propersSplit}
+
+\let\oldtextbf\textbf
+
+\renewcommand\textbf[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+     \oldtextbf{#1}%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+\newcommand\embolden[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+     #1%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+\renewcommand\greboldfont[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+    \oldtextbf{#1}%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+
+\include{servermass}
+
+\include{kyriale}
+
+\include{hymns}
+
+\include{prayers}
+
+\include{confession}
+
+\include{benediction}
+
+\makeoddhead{plain}{}{}{}
+\makeoddhead{headings}{}{\scshape\rightmark}{\thepage}
+\makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
+\renewcommand{\preindexhook}{\footnotesize}
+\renewcommand{\indexname}{Index}
+\chapter*{Index of Hymns}
+  \thispagestyle{indextitlepagestyle}
+\pagestyle{index}
+{\raggedleft \tiny \scshape Hymn\par}
+\printindex[freefirstlines]
+
+%\bigskip
+
+{\centering \textsc{Extra Prayers}\par}
+\vskip-\baselineskip
+{\raggedleft \tiny \scshape Page\par}
+\printindex[prayers]
+%\input {prayers.ind}
+
+\vfil
+
+\eject
+
+\normalsize
+
+\pagestyle{empty}
+
+\input colophon.tex
+
+\newpage
+
+\newpage
+
+\end{document}

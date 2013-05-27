@@ -1,0 +1,27 @@
+\newHymn
+
+\FirstLine{I'll sing a hymn to Mary,}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{I}{'ll} sing a hymn to Mary,\\*
+The Mother of my God, \\
+The Virgin of all virgins,\\*
+Of David's royal blood.\\
+O teach me, holy Mary,\\*
+A loving song to frame,\\
+When wicked men blaspheme thee,\\*
+To love and bless thy name.
+
+\flagverse{2} O Lily of the valley,\\*
+O Mystic Rose, what tree\\
+Or flower e'en the fairest,\\*
+Is half so fair as thee?\\
+O let me, though so lowly\\*
+Recite my Mother's fame\\
+When wicked men blaspheme thee,\\*
+I'll love and bless thy name.
+
+\end{verse}
+
+\Hpoet{John Wyse}{1825--98}

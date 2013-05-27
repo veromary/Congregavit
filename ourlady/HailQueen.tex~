@@ -1,0 +1,64 @@
+\newHymn
+
+\FirstLine{Hail, Queen of Heav'n, the ocean Star}
+
+
+\begin{verse}[\versewidth]
+
+\indentpattern{010122}
+\begin{patverse}
+\FirstVerse{H}{ail,} Queen of Heav'n, the ocean Star,\\*
+    Guide of the wand'rer here below,\\*
+        Thrown on life's
+surge, we claim thy care,\\*
+    Save us from peril
+    and from woe.\\
+        Mother of
+Christ, star
+of the sea,\\*
+    Pray for
+    the
+    wanderer,
+    pray for me.
+\end{patverse}
+
+\begin{patverse}
+\flagverse{2}O gentle, chaste and spotless Maid,\\*
+    We sinners make our prayers through thee;\\
+Remind thy Son that He has paid\\*
+    The price of our iniquity.\\
+        Virgin most pure, Star of the sea,\\*
+    Pray for the sinner, pray for me.
+\end{patverse}
+
+\begin{patverse}
+\flagverse{3}Sojourners in this vale of tears,\\*
+    To thee, blest advocate, we cry;\\
+        Pity our sorrows, calm our fears,\\*
+    And soothe with hope our misery.\\
+        Refuge in grief, Star of the sea,\\*
+    Pray for the mourner, pray for me.
+\end{patverse}
+
+\begin{patverse}
+\flagverse{4}And while to Him who reigns above,\\*
+    In Godhead One, in Persons Three,\\
+        The Source of life, of
+grace, of love,\\*
+    Homage we pay on
+    bended knee.\\
+        Do thou,
+bright Queen,
+Star of the sea,\\*
+    Pray for
+    thy
+    children,
+    pray for me.
+\end{patverse}
+    
+\end{verse}
+
+\Hpoet{Dr. John Lingard}{1771--1851}
+%Catholic priest who wrote ``The History of England from the first
+% invasion of the Romans to the accession of Henry VIII''
+    

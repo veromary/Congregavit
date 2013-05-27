@@ -1,0 +1,64 @@
+\newHymn
+\FirstLine{Bring, all ye dear-bought nations, bring}
+
+\begin{verse}[\versewidth]
+\indentpattern{0010011}
+\begin{patverse}
+\FirstVerse{B}{ring,} all ye dear-bought nations, bring \\*
+Your richest praises to your King,\\*
+Alleluia, alleluia,                 \\
+That spotless Lamb, who more than due, \\*        
+Paid for His sheep, and those sheep you,  \\*     
+Alleluia, alleluia,\\ 
+Alleluia, alleluia, alleluia.
+\end{patverse}
+
+\begin{patverse}
+\flagverse{2} The guiltless Son, who bought your peace,       \\*                                  
+And made His Father's anger cease,\\*
+Alleluia, alleluia,                  \\
+Then, life and death together fought,   \\*       
+Each to a strange extreme were brought.        
+%Alleluia.        
+\end{patverse}
+
+\begin{patverse}
+\flagverse{3} Life died, but soon revived again, \\* 
+And even death by it was slain.                \\*
+Alleluia, alleluia,                            \\
+Say, happy Magdalen, oh say,                  \\*
+What didst thou see there by the way?      
+%Alleluia.                                      
+\end{patverse}
+
+\begin{patverse}
+\flagverse{4} ``I saw the tomb of my dear Lord,            \\*
+I saw Himself and Him adored,                  \\*
+Alleluia, alleluia,                            \\
+I saw the napkin and the sheet,                \\*
+That bound His head and wrapped His feet. 
+%Alleluia.                                      
+\end{patverse}
+
+\begin{patverse}
+\flagverse{5} ``I heard the angels witness bear,\\*
+Jesus is ris'n; He is not here;        \\*        
+Alleluia, alleluia,                       \\ 
+Go, tell His followers they shall see,       \\*  
+Thine and their hope in Galilee.         
+%Alleluia.''                                   
+\end{patverse}
+
+\begin{patverse}
+\flagverse{6} We, Lord, with faithful hearts and voice,              \\*
+On this Thy rising day rejoice.                \\*
+Alleluia, alleluia,                            \\
+O Thou, whose power o'ercame the grave,            \\*
+By grace and love us sinners save.      
+%Alleluia.                                      
+\end{patverse}
+\end{verse}
+
+\Hpoet{\emph{Victimae Paschali Laudes,} attributed to Wipo of Burgundy}{11th century}
+%\attrib{Walter Kirkham Blount, d 1717}
+\Htrans{Walter Kirkham Blount}{d 1717}

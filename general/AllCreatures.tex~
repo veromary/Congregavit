@@ -1,0 +1,65 @@
+\newHymn
+\FirstLine{All creatures of our God and King}
+\begin{verse}[\versewidth]
+
+\indentpattern{0010011}
+\begin{patverse}
+\FirstVerse{A}{ll} creatures of our God and King,\\*
+Lift up your voice and with us sing\\*
+Alleluia, alleluia!\\*
+Thou burning sun with golden beam,\\*
+Thou silver moon with softer gleam:\\*
+O praise Him, O praise Him,\\*
+Alleluia, alleluia, alleluia.
+\end{patverse}
+
+
+\begin{patverse}
+\flagverse{2}O rushing wind so wild and strong,\\*
+White clouds that sail in heaven along,\\*
+alleluia, alleluia!\\*
+New rising dawn, in praise rejoice,\\*
+You lights of evening, find a voice:\\*
+O praise Him, O praise Him,\\*
+Alleluia, alleluia, alleluia!
+\end{patverse}
+
+\begin{patverse}
+\flagverse{3}Thou flowing water, pure and clear,\\*
+Make music for thy Lord to hear,\\*
+Alleluia, alleluia!\\*
+Thou fire so masterful and bright,\\*
+That givest man both warmth and light:
+\end{patverse}
+
+\begin{patverse}
+\flagverse{4}Dear mother earth, who day by day\\*
+Unfoldest blessings on our way,\\*
+O praise Him, alleluia!\\*
+The flowers and fruits that in thee grow,\\*
+Let them his glory also show:
+\end{patverse}
+
+\begin{patverse}
+\flagverse{5}And all ye men of tender heart,\\*
+Forgiving others, take your part,\\*
+O praise him, alleluia!\\*
+Ye who long pain and sorrow bear,\\*
+Praise God and on him cast your care:
+\end{patverse}
+
+\begin{patverse}
+\flagverse{6}Let all things their Creator bless,\\*
+And worship Him in humbleness,\\*
+O praise Him, alleluia!\\*
+Praise, praise the Father, praise the Son,\\*
+And praise the Spirit, Three in One:
+\end{patverse}
+
+\end{verse}
+
+\Hpoet{Canticle of the Sun, St.~Francis of Assisi}{1182--1226}
+\Htrans{William Henry Draper}{1855--1933}
+\Hmeter{LM and Alleluias}
+\Hsource{Living Parish}{3}
+

@@ -1,0 +1,63 @@
+\newHymn
+
+\FirstLine{Adeste fideles laeti triumphantes}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{A}{deste} fideles laeti triumphantes;\\*
+Venite, venite 
+in Bethlehem;\\*
+Natum videte Regem Angelorum:       
+\pointtrans
+
+\begin{indentedVerse}
+\flagverse{Refrain}\vin Venite, adoremus,\\*
+\vin Venite, adoremus,\\*
+\vin Venite, adoremus Dominum.
+\end{indentedVerse}
+
+\flagverse{2}Deum de Deo, Lumen de Lumine,\\*
+Gestant puellae     
+viscera,\\*
+Deum verum, Genitum non factum. 
+ 
+
+%\flagverse{3}En, grege relicto, humiles ad cunas,\\*
+%vocati
+%pastores approperant;\\*
+%et nos ovanti gradu         
+%festinemus.
+
+%\flagverse{4}Stella duce, Magi Christum adorantes\\*
+%aurum, tus et
+%myrrham dant munera. \\*
+%Iesu infanti corda           
+%praebeamus;
+
+\flagverse{3}Aeterni Parentis splendorem aeternum,\\*
+Velatum sub 
+carne videbimus;\\*
+Deum infantem pannis involutum.  
+
+%\flagverse{6}Pro nobis egenum et faeno cubantem,\\*
+%piis foveamus 
+%amplexibus.\\*
+%Sic nos amantem quis non redamaret?
+
+
+\flagverse{4}Cantet nunc Io chorus Angelorum;\\*
+Cantet nunc aula 
+caelestium,\\*
+Gloria in excelsis Deo.
+
+
+
+\flagverse{5}Ergo qui natus die hodierna,\\*
+Iesu, tibi sit       
+gloria,\\*
+Patris aeterni Verbum caro factum.
+
+\end{verse}
+
+\Hpoet{John Francis Wade}{1711--86}
+

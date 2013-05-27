@@ -1,0 +1,22 @@
+%                                                     Hail, Glorious St Patrick
+
+\newHymn
+
+\FirstLine{Christ be with me, Christ within me}
+\begin{verse}[\versewidth]
+\HymnTitleInVerse{St.~Patrick's Breastplate}
+\initialV{C}{hrist} be with me, Christ within me,
+Christ behind me, Christ before me,\\
+Christ beside me, Christ to win me,\\*
+Christ to comfort and restore me.
+
+\flagverse{2}Christ beneath me, Christ above me,\\*
+Christ in quiet, Christ in danger,\\
+Christ in hearts of all that love me,\\*
+Christ in mouth of friend and stranger.
+
+\end{verse}
+
+\Hpoet{St.~Patrick}{372--466}
+\Htrans{Cecil Frances Alexander}{1818--95}
+

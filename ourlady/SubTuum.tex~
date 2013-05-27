@@ -1,0 +1,21 @@
+\newHymn
+\FirstLine{Sub tuum praesidium confugimus}
+
+%\begin{verse}[\versewidth]
+
+%\FirstVerse{S}{ub} tuum praesídium confúgimus\\*
+%Sancta Dei Génitrix:\\
+%Nostras deprecatiónes ne despícias in necessitátibus:\\
+%Sed a perículis cunctis líbera nos semper,\\
+%Virgo gloriósa et benedícta.
+
+%\end{verse}
+
+\gresetfirstlineaboveinitial{7}{7}
+\includescore{gabc/subtuum.tex}
+\gresetfirstlineaboveinitial{}{}
+
+\Hnote{Under thy patronage we fly, Holy Mother of God}
+\Hnote{reject not the prayers we send up to thee in our necessities}
+\Hnote{but ever deliver us in time of peril, O Virgin glorious and
+blessed.}

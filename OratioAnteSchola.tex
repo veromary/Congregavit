@@ -1,0 +1,110 @@
+\documentclass[a5paper,11pt,twoside]{memoir}
+\usepackage[british,latin]{babel}
+\usepackage{lettrine}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setsansfont{Calluna Sans}
+\setmainfont{EB Garamond}
+\newfontfamily{\semibf}{Calluna-Semibold}
+\newfontfamily{\anavio}{Anavio}
+\newfontface{\vectis}{Vectis_Bold_OT}
+\newfontfamily{\libertine}{Linux Libertine O}
+\newfontface{\versicles}{Versiculum}
+\newfontface{\cruci}{Juuji}
+%\usepackage{mparhack}
+%\usepackage{verse}
+\usepackage{nopageno}
+\usepackage{parallel}
+%\usepackage{multicol}
+%\usepackage{fncylab}
+%\usepackage{hanging}
+\usepackage{graphicx}
+\usepackage{gregoriotex}
+%\usepackage{libgreek}
+%\usepackage{scrpage2}
+%\settrimmedsize{9in}{6in}{*}
+%\setlength{\trimtop}{0pt}
+%\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+\settypeblocksize{170mm}{115mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.618}
+\setlrmargins{*}{*}{1}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
+
+\input conf-hymns.tex
+
+\setgrefactor{18}
+
+\setsecnumdepth{chapter}
+
+\setsecheadstyle{\LARGE\scshape\centering}
+\setsubsecheadstyle{\Large\scshape\centering}
+\setsubsubsecheadstyle{\large\scshape\centering}
+
+\def\greinitialformat#1{%
+{\fontsize{24}{24}\vectis #1}}
+
+
+\def\gretranslationformat#1{%
+{\fontsize{8}{8}\selectfont #1}%
+}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\section{Prayer before choir practice}
+
+%\rubrics{Indulgence of 3 years and 300 days.}
+
+\rubrics{Oratio Ante Scholam Musicae}
+
+\gresetfirstannotation{Ant.}
+\gresetsecondannotation{5.}
+%\gresetfirstlineaboveinitial{Ant.\\5.}{Ant.\\5.}
+%\gresetsecondlineaboveinitial{5.}{5.}
+\includescore{kyriale/repleatur.tex}
+
+\bigskip
+
+[Let my mouth be filled with thy praise, in order that I be able to sing;
+my lips will rejoice for as long as I sing unto thee.]
+
+\bigskip
+
+
+\begin{Parallel}{\gcolwidth}{\gcolwidth}
+\latin{\Vbar Laudábo Dóminum in vita mea.}
+\vern{I will give praise unto the Lord of my life.}
+\latin{\Rbar Psallam Deo meo quámdiu ero.}
+\vern{I will sing psalms unto God all the days of my life.}
+\latin{Orémus.}
+\vern{Let us pray.}
+\latin{Súscipe, quaésumus, Dómine,\\
+sacrifícium labiórum nostrórum: \dag\ \\
+et intercedéntibus sanctis tuis\\
+Gregório atque Caecília, tua nobis\\
+pietáte concéde; ut, quam\\
+offérimus laudem peregrinántes in\\
+terris, * hanc tibi perpétuo\\
+concinére mereámur in caelis.\\
+Per Christum Dóminum nostrum. \\
+\Rbar Amen.}
+\vern{Accept, we beseech thee, O Lord,\\
+the sacrifice (homage) of our lips,\\
+and through the intercession of thy\\
+saints Gregory and Caecilia, grant\\
+unto us thy mercy; that through\\
+these offerings of praise during our\\
+earthly pilgrimage, * we may be\\
+found worthy to sing your praises\\
+eternally in heaven.
+Through\\
+Christ our Lord. \Rbar Amen.}
+\end{Parallel}
+
+
+\end{document}
+

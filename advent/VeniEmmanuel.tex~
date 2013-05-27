@@ -1,0 +1,47 @@
+\newHymn
+\FirstLine{Veni veni, Emmanuel}
+\specialindex{firstlines}{hymnNo}{Veni, O Sapientia|upnums}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{V}{eni,} O Sapiéntia,\\*
+Quae hic dispónis ómnia,   \\*        
+Veni, viam prudéntiae        \\*      
+Ut dóceas et glóriae. 
+\pointtrans
+
+\flagverse{Refrain} Gaude! Gaude! Emmánuel,\\*
+Nascétur pro te Israel! 
+
+\flagverse{2}Veni, veni, Adonái,\\*
+Qui pópulo in Sínai               \\* 
+Legem dedísti vértice              \\*
+In majéstate glóriae.
+
+\flagverse{3}Veni, O Jesse vírgula,\\*
+Ex hostis tuos úngula,             \\*
+De spectu tuos tártari             \\*
+Educ et antro bárathri.
+
+\flagverse{4}Veni, Clavis Davídica,\\*
+Regna reclúde caélica,             \\*
+Fac iter tutum súperum,            \\*
+Et claude vias ínferum.
+
+\flagverse{5}Veni, veni O Oriens,\\*
+Soláre nos advéniens,              \\*
+Noctis depélle nébulas,            \\*
+Dirásque mortis ténebras.
+
+\flagverse{6}Veni, veni, Rex géntium,\\*
+Veni, Redémptor ómnium,            \\*
+Ut salvas tuos fámulos             \\*
+Peccáti sibi cónscios.
+
+\flagverse{7}Veni veni, Emmánuel\\*
+Captívum solve Israel,      \\*       
+Qui gemit in exsílio,         \\*     
+Privátus Dei Fílio.   
+
+\end{verse}
+

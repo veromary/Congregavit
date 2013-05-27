@@ -1,0 +1,42 @@
+\newHymn
+
+\FirstLine{Nearer, my God, to Thee}
+
+\begin{verse}[\versewidth]
+
+\begin{altverse}
+\FirstVerse{N}{earer,} my God, to Thee\\*
+Nearer to Thee,\\
+E'en though it be a cross\\*
+That raiseth me:\\
+	Still all my song would be,\\*
+	Nearer, my God, to Thee,\\
+	Nearer, my God, to Thee,---\\*
+	Nearer, to Thee.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{2} Friends may depart from me,\\*
+Night may come down,\\
+Clouds of adversity\\*
+Darken and frown:\\
+Still through my tears I'll see\\*
+Hope gently leading me,\\
+Nearer, my God to Thee,\\*
+Nearer to Thee.
+\end{altverse}
+
+\begin{altverse}
+\flagverse{3}What though the shadows fall,\\*
+Naught shall I fear;\\
+When darkest seems the night,\\*
+Morning is near,\\
+Sweet shall my trusting be,\\*
+Sorrow still bringing me\\
+Nearer, my God to Thee,\\*
+Nearer to Thee.
+\end{altverse}
+
+\end{verse}
+
+\Hpoet{Sarah F.~Adams}{1805--48}

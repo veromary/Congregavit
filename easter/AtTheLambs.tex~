@@ -1,0 +1,53 @@
+\newhymn
+
+\FirstLine{At the Lamb's high feast we sing}
+%\settowidth{\versewidth}{His the scepter his the throne}
+\begin{verse}[\versewidth]
+%\begin{altverse}
+\FirstVerse{A}{t} the Lamb's high feast we sing,\\*
+Praise to our victorious King,\\
+Who hath washed us in the tide\\*
+Flowing from His piercèd Side;\\\pointorig
+Praise we Him, whose love Divine\\*
+Gives His Sacred Blood for wine,\\
+Gives His Body for the feast,\\*
+Christ the Victim, Christ the Priest.
+%\end{altverse}
+
+\flagverse{2}Where the Paschal blood is poured,\\*
+Death's dark Angel sheathes his sword;\\
+Israel's hosts triumphant go\\*
+Through the wave that drowns the foe.\\
+Praise we Christ, whose blood was shed,\\*
+Paschal Victim, Paschal Bread;\\
+With sincerity and love\\*
+Eat we Manna from above.
+
+\flagverse{3}Mighty Victim from the sky,\\*
+Hell's fierce pow'rs beneath Thee lie;\\
+Death is conquered in the fight,\\*
+Thou hast brought us life and light;\\
+Now Thy banner Thou dost wave;\\*
+Vanquished Satan and the grave;\\
+Angels join His praise to tell---\\*
+See o'erthrown the prince of hell.
+%Now no more can death appall,
+%Now no more the grave enthrall;
+%Thou hast opened Paradise,
+%And in Thee Thy saints shall rise.
+
+\flagverse{4}Paschal triumph, Paschal joy,\\*
+%Only sin can this destroy;
+%From sin's death do Thou set free
+%Souls reborn, O Lord, in Thee.
+Only sin can this destroy;\\
+From the death of sin set free,\\*
+Souls re-born, dear Lord, in Thee.\\
+Hymns of glory, songs of praise,\\*
+Father, unto Thee we raise;\\
+Risen Lord, all praise to Thee,\\*
+Ever with the Spirit be.
+
+\end{verse}
+
+\Htrans{Robert Campbell}{1814--68}

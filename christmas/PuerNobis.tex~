@@ -1,0 +1,37 @@
+\newHymn
+\FirstLine{Puer nobis nascitur}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{P}{uer} nobis nascitur\\*
+Rector angelorum;\\*
+In hoc mundo pascitur\\*
+Dominus dominorum.
+\pointtrans
+
+\flagverse{2} In præsepe positum\\*
+Sub fœno asinorum.\\*
+Cognoverunt Dominum\\*
+Christum Regem Cœlorum.
+
+\flagverse{3} Nunc Herodes timuit,\\*
+Magno cum timore,\\*
+In infantes irruit,\\*
+Hos caedes infurore.
+
+\flagverse{4} Qui natus est ex Marie,\\*
+Die hodierna\\*
+Duc nos tua gratia\\*
+Ad gaudia superna.
+
+\flagverse{5} O et A et A et O\\*
+Cum cantibus in choro,\\*
+Cantemus in organo,\\*
+Benedicamus domino.
+
+\end{verse}
+
+\Hnote{Piae Cantiones}
+
+%15th Century
+

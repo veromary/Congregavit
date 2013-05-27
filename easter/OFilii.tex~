@@ -1,0 +1,78 @@
+\newHymn
+
+%│ This hymn was written by Jean Tisserand, O.F.M. (d. 1494) and originally had only nine stanzas. Stanzas │
+%          │ "Discipulis adstantibus", "Ut intellexit Didymus", "Beati qui non viderunt" are early additions to the  │
+%          │ hymn. There are several different versions of the hymn. The one below is one of the more common         │
+%          │ versions.                                                                                               │
+%          └─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+\FirstLine{O filii et filiae}
+
+\settowidth{\versewidth}{Rex caelestis, Rex gloriae}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{A}{lleluia,} Allelúia, Allelúia.
+
+\flagverse{1}O fílii et fíliae,\\*
+Rex caeléstis, Rex glóriae \\*
+Morte surréxit hódie.                           
+Allelúia.
+\pointtrans
+
+\flagverse{2}Ex mane prima Sábbati \\*
+Ad óstium monuménti   \\*  
+Accessérunt discípuli.  Allelúia.             
+
+\flagverse{3}Et María Magdaléne,     \\*
+Et Jacóbi, et Salóme    \\*
+Venérunt corpus úngere  Allelúia.             
+
+\flagverse{4}In albis sedens ángelus   \\*
+Praedíxit muliéribus:     \\*
+In Galilaéa est Dóminus.  Allelúia. 
+
+\flagverse{5}Et Joánnes apóstolus \\*
+Cucúrrit Petro cítius, \\*
+Monuménto venit prius. 
+                      Allelúia.
+
+\flagverse{6}Discípulis adstántibus,\\*
+In medio stetit Christus,\\*
+Dicens: Pax vobis ómnibus. Allelúia. 
+
+\flagverse{7}Ut intelléxit Dídymus\\*
+Quia surréxerat Jesus,    \\*
+Remánsit fere dúbius.     Allelúia. 
+
+\flagverse{8}Vide Thoma, vide latus,\\*
+Vide pedes, vide manus,   \\*
+Noli esse incrédulus.     Allelúia. 
+
+\flagverse{9}Quando Thomas Christi latus,\\*%vidit Christum,\\*
+Pedes vidit atque manus,\\*%, manus, latus suum,         \\*
+Dixit: Tu es Deus meus.           
+                                 Allelúia.
+
+\flagverse{10}Beáti qui non vidérunt \\*  
+Et fírmiter credidérunt; \\*
+Vitam aetérnam habébunt. 
+                        Allelúia.  
+
+\flagverse{11}In hoc festo sanctíssimo\\*
+Sit laus et jubilátio:   \\*
+\textsc{Benedicamus Domino.}
+                        Allelúia.  
+
+\flagverse{12}Ex quibus nos humíllimas\\*
+Devótas atque débitas    \\*
+\textsc{Deo} dicámus \textsc{gratias.}
+                        Allelúia.
+
+\end{verse}
+
+
+%    Latin from March, Latin Hymns. Translation by 
+%\Htrans{Fr. Edward Caswall}{1814--78}
+
+\Hpoet{Jean Tisserand, O.F.M.}{d.~1494}

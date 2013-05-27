@@ -1,0 +1,64 @@
+%Hymn to St Mary of the Cross
+
+\newHymn
+%\FirstLine{O Mary"! first in all our land}
+\FirstLine{O Mother Mary of the Cross}
+\label{hymn:OMotherMary}
+
+\begin{verse}[\versewidth]
+\HymnTitleInVerse{St.~Mary of the Cross}% \quad (8th August)}
+%\initialV{O}{ Mary!} first in all our land\\*
+%To be so honoured with the name\\
+%Of Saint, for service to the poor\\*
+%With joyful love and heart aflame.
+
+\initialV{O}{ Mother} Mary of the Cross\\*
+The first Australian saint, we hail.\\
+Thy work to lead the poor to truth\\*
+Awaking mercy in thy trail.
+%By thy example may we learn\\*
+%The Love of God will never fail.
+
+%To serve the King who shall prevail.
+%The first saint of Australia\\
+%Do bless this dry and dusty land\\*
+%And make us strong and holier.
+
+% Of all our land of saints the first
+% Look down upon our wasted land
+% And send down dew to still its thirst
+
+% Our teacher, guide and patroness
+% Accept our praise with gloria???
+
+% dailier, raylia, 
+
+%\end{verse}
+%\marginpar{Still working on this!}
+
+%\begin{verse}
+
+\flagverse{2}To Joseph's aid thou ever turned,\\*
+Strong in the faith that he would be\\
+%\flagverse{2}Thou trusted in Saint Joseph's care,\\*
+%Strong man and silent, he would be\\
+An advocate to that dear Heart\\*
+That bled and died upon the Tree.
+
+\flagverse{3}The Tree of life, the Cross of death\\*
+To which thy name and life were bound,\\
+The paradox that pain and strife\\*
+To everlasting joy redound.
+
+\flagverse{4}O Mary! intercede for us\\*
+And form us to His holy Will\\
+With Father and the Holy Ghost\\*
+And Heart of Jesus burning still.
+%And guide our steps, that this our land\\
+%May be God's own from sea to sea\\*
+%And yield full fruit beneath His Hand.
+
+\end{verse}
+
+\Hpoet{Veronica Brandt}{1979--}
+%\Hnote{http://brandt.id.au}

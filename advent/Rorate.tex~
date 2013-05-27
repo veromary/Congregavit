@@ -1,0 +1,102 @@
+\newHymn
+\JustHymnNum
+%\HymnTitleit{Rorate caeli desuper}
+\FirstLine{Rorate caeli desuper}
+\settowidth{\versewidth}{own dew, ye heavens, from above, and let
+the clou}
+{\gresetfirstlineaboveinitial{Ant}{nn}
+\includescore{gabc/rorate.tex}
+\gresetfirstlineaboveinitial{}{}
+}
+
+\Hlnote{Drop down dew, ye heavens, from above,\\
+and let the clouds rain
+down the Just One.}
+
+\begin{verse}[\versewidth]
+
+\flagverse{1}Ne irascáris Dómine, ne ultra memíneris iniquitátis:\\
+Ecce cívitas Sancti facta est desérta:\\
+Sion desérta facta est:\\
+Jerúsalem desoláta est:\\
+Domus sanctificatiónis tuae et glóriae tuae, ubi laudavérunt te patres nostri.
+\end{verse}
+
+\Hlnote{Be not angry, O Lord, and remember no longer our iniquity :\\
+behold the city of Thy sanctuary is become a desert, \\
+Sion is made a desert.\\
+Jerusalem is desolate,\\
+the house of our holiness and of Thy glory, where our fathers praised Thee.
+}
+
+\begin{verse}[\versewidth]
+
+%\flagverse{Ant}Rorate caeli desuper, et nubes pluant iustum.
+
+\flagverse{2}Peccávimus, et facti sumus tamquam immúndus nos, et cecídimus quasi
+fólium univérsi:\\
+et iniquitátes nostrae quasi ventus
+abstulérunt nos:\\
+abscondísti fáciem tuam a nobis,\\
+et allisísti nos in manu iniquitátis nostrae.
+
+\end{verse}
+
+\Hlnote{We have sinned, and we are become as one unclean, and we have all
+fallen as a leaf;\\
+and our iniquities, like the wind, have
+taken us away \\
+Thou hast hid Thy face from us,\\
+and hast crushed us by the hand of our iniquity.
+}
+
+\begin{verse}[\versewidth]
+
+%\flagverse{Ant}Rorate caeli desuper, et nubes pluant iustum.
+
+\flagverse{3}Vide Dómine afflictiónem pópuli tui, et mitte quem missúrus es:\\
+emítte Agnum dominatórem terrae,\\
+de Petra desérti ad montem
+fíliae Sion:\\
+ut áuferat ipse jugum captivitátis nostrae.
+
+\end{verse}
+
+\Hlnote{See, O Lord, the affliction of Thy people, and send Him whom Thou hast
+promised to send.\\
+Send forth the Lamb, the ruler of the
+earth,\\
+from the Rock of the desert to the mount of the daughter of
+Sion,\\
+that He Himself may take off the yoke of our
+captivity.}
+
+\begin{verse}[\versewidth]
+
+%\flagverse{Ant}Rorate caeli desuper, et nubes pluant iustum.
+
+\flagverse{4}Consolámini, consolámini, pópule meus:\\
+cito véniet salus tua:\\
+quare moeróre consúmeris, quia innovávit te dolor?\\
+Salvábo te,
+noli timére,\\
+ego enim sum Dóminus Deus tuus, Sanctus Israel, Redémptor tuus.
+
+\end{verse}
+
+\Hlnote{Be comforted, be comforted, My people;\\
+thy salvation shall speedily
+come.\\
+Why wilt thou waste away in sadness? why hath sorrow
+seized thee?\\
+I will save thee; fear not:\\
+for I am the Lord thy God, the Holy One of Israel, thy Redeemer.
+}
+
+%\begin{verse}[\versewidth]
+
+%\flagverse{Ant}Rorate caeli desuper, et nubes pluant iustum.
+
+%\end{verse}
+
+

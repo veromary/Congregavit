@@ -1,0 +1,62 @@
+\newHymn
+\FirstLine{O come, O come Emmanuel}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{O}{ come,} O come Emmanuel,\\*
+And ransom captive Israel,\\*
+That mourns in lonely exile here\\*
+Until the Son of God appear.
+\pointorig
+
+\flagverse{Refrain:}
+Rejoice! Rejoice! Emmanuel\\*
+Shall come to thee, O Israel.
+
+
+\flagverse{2} O come, Desire of nations, bind\\*
+    All peoples in one heart and mind;\\*
+    Bid envy, strife and quarrels cease;\\*
+    And fill the world with heaven's peace.
+ 
+
+\flagverse{3} O come, Thou Day-Spring, come and cheer\\*
+Our spirits by Thine advent here;\\*
+Disperse the gloomy clouds of night\\*
+And death's dark shadows put to flight!
+
+\flagverse{4} O come, Thou Key of David, come,\\*
+And open wide our heavenly home;\\*
+Make safe the way that leads on high,\\*
+And close the path to misery. Refrain
+
+\flagverse{5} O come, Thou Rod of Jesse, free\\*
+Thine own from Satan's tyranny;\\*
+From depths of hell Thy people save,\\*
+And give them victory o'er the grave.
+
+\flagverse{6} O come, O come, Thou Lord of Might,\\*
+Who to Thy tribes on Sinai's height\\*
+In ancient times didst give the law\\*
+In cloud, and majesty, and awe.
+
+
+\flagverse{7} O come, Thou Wisdom from on high,\\*
+    And order all things, far and nigh;\\*
+    To us the path of knowledge show,\\*
+    And cause us in her ways to go.
+
+%These verses occurred in Henry Sloane Coffin and Ambrose White Vernon, eds., Hymns of the Kingdom of God. Revised (New York:
+%The A.S. Barnes Company, 1916), Hymn #37. Verse one was the translation by Rev. John Mason Neale.
+
+%For more information about Henry Sloane Coffin, see Pastor, educator, ecumenist: Henry Sloan Coffin (1877-1954), a
+%"Presbyterian Heritage" article by James H. Smylie, June 6/13, 2005, at The Presbyterian Outlook. Coffin's noted work Some
+%Christian Convictions: A Practical Restatement in Terms of Present-Day Thinking is reproduced at Project Gutenberg. Links open
+%in new windows at exterior sites.
+
+
+\end{verse}
+%\attrib{John Mason Neale, 1818--66\\verses 2 and 7 by others}
+\Hpoet{John Mason Neale}{1818--66}
+%%\Hpoet{Henry Sloane Coffin}{1877--1954}
+\Hnote{verses 2 and 7 by others}

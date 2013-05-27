@@ -1,0 +1,44 @@
+\newHymn
+\FirstLine{Conditor alme siderum}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{C}{onditor} alme siderum,\\*
+Aeterna lux credentium,        \\*      
+Christe, redemptor omnium,       \\*    
+Exaudi preces supplicum. 
+\pointtrans
+
+\flagverse{2}Qui condolens interitu    \\*
+Mortis perire saeculum,     \\*         
+Salvasti mundum languidum,    \\*       
+Donans reis remedium,    
+
+\flagverse{3}Vergente mundi vespere,\\*              
+Uti sponsus de thalamo,  \\*            
+Egressus honestissima      \\*          
+Virginis matris clausula.
+
+\flagverse{4}Cuius forti potentiae  \\*              
+Genu curvantur omnia;    \\*            
+Caelestia, terrestria      \\*          
+Nutu fatentur subdita.   
+
+\flagverse{5}Te deprecamur hagie\\*%, Sancte, fide quaesumus,  \\*        
+Venture iudex saeculi,         \\*      
+Conserva nos in tempore          \\*    
+Hostis a telo perfidi.   
+
+\flagverse{6}Laus, honor, virtus, gloria\\*
+Deo Patri et Filio\\*
+Sancto simul Paraclito,\\*
+In sempiterna saecula.  Amen.
+
+%Sit, Christe, rex piissime,\\*          
+%Tibi Patrique gloria         \\*        
+%Cum Spiritu Paraclito,         \\*      
+%In sempiterna saecula. Amen.     
+
+\end{verse}
+
+

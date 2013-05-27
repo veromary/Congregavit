@@ -1,0 +1,38 @@
+\newHymn
+\FirstLine{O come, all ye faithful}
+\settowidth{\versewidth}{O come ye, O come ye to Bethlehehem}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{O}{ come,} all ye faithful, joyful and triumphant,\\*
+O come ye, O come ye to Bethlehem;\\*
+Come and behold Him, born the King of Angels.
+\pointorig
+
+\begin{indentedVerse}
+\flagverse{Chorus:}\vin O come let us adore Him,\\*
+\vin O come let us adore Him, \\*
+\vin O come let us adore Him, Christ the Lord. 
+\end{indentedVerse}
+
+\flagverse{2}God from God, Light from Light\\*
+Lo, he abhors not the Virgin's womb,\\*
+Very God begotten, not created:
+
+\flagverse{3}The splendour eternal Of eternal Godhead\\*
+Veiled with infirmities of flesh we see:\\*
+Hiding his glory, Swaddling clothes he weareth: 
+
+
+\flagverse{4} Sing choirs of angels, sing in exultation,\\*
+Sing, all ye citizens of heaven above;\\*
+Glory to God; Glory in the highest:
+
+\flagverse{5} Yea, Lord, we greet thee, Born this happy morning;\\*
+To thee, O Jesus, be glory giv'n;\\*
+Word of the Father, Now in flesh appearing.
+
+\end{verse}
+
+%unfamiliar translation again!
+

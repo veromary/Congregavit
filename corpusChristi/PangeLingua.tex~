@@ -1,0 +1,53 @@
+\newHymn
+\FirstLine{Pange, lingua, gloriosi}
+
+\begin{verse}[\versewidth]
+
+\FirstVerse{P}{ange,} lingua, gloriósi \\*
+Córporis mystérium,     \\ 
+Sanguinísque pretiósi,    \\*  
+Quem in mundi prétium     \\
+Fructus ventris generósi    \\*
+Rex effúdit Géntium.        
+\pointtrans                            
+
+\flagverse{2}Nobis datus, nobis natus    \\*
+Ex intácta Vírgine,         \\
+Et in mundo conversátus,    \\*
+Sparso verbi sémine,        \\
+Sui moras incolátus         \\*
+Miro clausit órdine.        
+                            
+
+\flagverse{3}In suprémae nocte coenae     \\*
+Recúmbens cum frátribus     \\
+Observáta lege plene        \\*
+Cibis in legálibus,         \\
+Cibum turbae duodénae       \\*
+Se dat suis mánibus.        
+
+\flagverse{4}Verbum caro, panem verum    \\*
+Verbo carnem éfficit:       \\
+Fitque sanguis Christi merum, \\*
+Et si sensus déficit,       \\
+Ad firmándum cor sincérum   \\*
+Sola fides súfficit.        
+
+\flagverse{5}Tantum ergo Sacraméntum     \\*
+Venerémur cérnui:           \\
+Et antíquum documéntum      \\*
+Novo cedat rítui:           \\
+Praestet fides suppleméntum \\*
+Sénsuum deféctui.           
+
+\flagverse{6}Genitóri, Genitóque         \\*
+Laus et jubilátio,          \\
+Salus, honor, virtus quoque \\*
+Sit et benedíctio:          \\
+Procedénti ab utróque       \\*
+Compar sit laudátio.
+%Amen. Alleluia.             
+
+\end{verse}
+
+\Hpoet{St.~Thomas Aquinas}{1225--74}

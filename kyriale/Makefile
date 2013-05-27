@@ -1,0 +1,8 @@
+.SUFFIXES : .gabc .tex
+
+
+.gabc.tex : 
+	gregorio $<
+
+all : *.tex
+
