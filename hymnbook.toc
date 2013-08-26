@@ -908,31 +908,31 @@
 \contentsline {section}{Advent}{138}
 \contentsline {section}{Christmas}{144}
 \contentsline {section}{Lent}{159}
-\contentsline {section}{Easter}{176}
-\contentsline {section}{Pentecost}{183}
-\contentsline {section}{Corpus Christi}{188}
-\contentsline {section}{Sacred Heart}{199}
-\contentsline {section}{Christ the King}{201}
-\contentsline {chapter}{\chapternumberline {5}Hymns for the Saints}{203}
-\contentsline {section}{Our Lady}{203}
-\contentsline {section}{Saints' Days}{218}
-\contentsline {section}{Holy Souls}{227}
-\contentsline {chapter}{\chapternumberline {6}Hymns for Mass}{233}
-\contentsline {section}{Processional/Recessional}{233}
-\contentsline {section}{Offertory}{248}
-\contentsline {section}{Communion}{251}
-\contentsline {chapter}{\chapternumberline {7}Prayers}{254}
-\contentsline {section}{Litany of the Saints}{254}
+\contentsline {section}{Easter}{174}
+\contentsline {section}{Pentecost}{182}
+\contentsline {section}{Corpus Christi}{186}
+\contentsline {section}{Sacred Heart}{197}
+\contentsline {section}{Christ the King}{199}
+\contentsline {chapter}{\chapternumberline {5}Hymns for the Saints}{202}
+\contentsline {section}{Our Lady}{202}
+\contentsline {section}{Saints' Days}{217}
+\contentsline {section}{Holy Souls}{226}
+\contentsline {chapter}{\chapternumberline {6}Hymns for Mass}{232}
+\contentsline {section}{Processional/Recessional}{232}
+\contentsline {section}{Offertory}{247}
+\contentsline {section}{Communion}{250}
+\contentsline {chapter}{\chapternumberline {7}Prayers}{253}
+\contentsline {section}{Litany of the Saints}{253}
 \select@language {latin}
 \select@language {british}
-\contentsline {section}{Litany of the Holy Name of Jesus}{261}
-\contentsline {section}{Indulgenced prayers to the Sacred Heart}{263}
-\contentsline {section}{Litany of the Sacred Heart of Jesus}{265}
-\contentsline {section}{Litany of the Precious Blood of Jesus}{268}
-\contentsline {section}{Litany of the Blessed Virgin Mary}{270}
-\contentsline {section}{Litany of St.~Joseph}{273}
-\contentsline {chapter}{\chapternumberline {8}The Sacrament of Penance}{274}
-\contentsline {chapter}{\chapternumberline {9}Benediction of the Blessed Sacrament}{278}
+\contentsline {section}{Litany of the Holy Name of Jesus}{260}
+\contentsline {section}{Indulgenced prayers to the Sacred Heart}{262}
+\contentsline {section}{Litany of the Sacred Heart of Jesus}{264}
+\contentsline {section}{Litany of the Precious Blood of Jesus}{267}
+\contentsline {section}{Litany of the Blessed Virgin Mary}{269}
+\contentsline {section}{Litany of St.~Joseph}{272}
+\contentsline {chapter}{\chapternumberline {8}The Sacrament of Penance}{273}
+\contentsline {chapter}{\chapternumberline {9}Benediction of the Blessed Sacrament}{277}
 \select@language {latin}
 \select@language {british}
 \select@language {latin}
