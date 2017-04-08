@@ -4,8 +4,8 @@
 \newcommand\kyrialeheading[3]{\section[#1. #2]{\Large \textbf{#1.} --- \textnormal{#2} \def\missaname{#3} \if*\missaname \else \\ \textnormal{\normalsize\emph{#3}}\fi}}
 
 \newcommand\includechant[2]{
-\gresetfirstlineaboveinitial{#1}{#1}
-\includescore{kyriale/#2.tex}
+%\gresetfirstlineaboveinitial{#1}{#1}
+\gregorioscore{kyriale/#2.tex}
 %\gresetfirstlineaboveinitial{}{}
 }
 \def\gretranslationformat#1{%
@@ -374,8 +374,6 @@
 \section{Credo VI}
 
 \includechant{4.}{credo_VI}
-
-\gresetfirstlineaboveinitial{}{}
 
 
 \vfill

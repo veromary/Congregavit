@@ -3,7 +3,7 @@
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
 %\setmainfont[Numbers=OldStyle]{Linux Libertine O}
-\setmainfont{EB Garamond}
+\setmainfont{Linux Libertine O}
 \setsansfont{Linux Biolinum O}
 \newfontfamily{\anavio}{EB Garamond}
 %\newfontfamily{\vectis}{Vectis}
@@ -19,7 +19,7 @@
 \usepackage{fncylab}
 \usepackage{lettrine}
 \usepackage{graphicx}
-\usepackage{gregoriotex}
+\usepackage[autocompile]{gregoriotex}
 \settrimmedsize{9in}{6in}{*}
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
@@ -138,7 +138,7 @@
 }
 
 
-%\includeonly{servermass,kyriale}
+\includeonly{servermass,kyriale}
 
 \begin{document}
 \pagenumbering{arabic}
@@ -195,24 +195,6 @@
 \pagestyle{headings}
 
 \include{propersSplit}
-
-\let\oldtextbf\textbf
-
-\renewcommand\textbf[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-     \oldtextbf{#1}%
-    \pdfliteral direct {0 Tr 0 w}%
-}
-\newcommand\embolden[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-     #1%
-    \pdfliteral direct {0 Tr 0 w}%
-}
-\renewcommand\greboldfont[1]{%
-    \pdfliteral direct {2 Tr 0.2 w}%
-    \oldtextbf{#1}%
-    \pdfliteral direct {0 Tr 0 w}%
-}
 
 \include{servermass}
 

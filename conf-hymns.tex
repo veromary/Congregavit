@@ -152,10 +152,8 @@
 %
 %
 
-\setgrefactor{12}
-\def\greinitialformat#1{%
-%{\color{red}\fontsize{24}{24}\fontencoding{T1}\fontfamily{anavio}\selectfont #1}}
-{\fontsize{24}{24}\textbf{#1}}}
+\grechangestaffsize{14}
+\grechangestyle{initial}{\fontsize{24}{24}\selectfont}
 
 %\renewcommand{\LettrineFontHook}{\fontencoding{T1}\color{red}\fontfamily{anavio}}
 \renewcommand{\LettrineFontHook}{\anavio}
@@ -346,18 +344,18 @@
 
 \newcommand\maltese{{\tiny \cruci V}\ }
 
-\font\gregoriansymbolfont=gresym at 12pt
+%\font\gregoriansymbolfont=gresym at 12pt
 
-\def\grestar{% the other (multimulti-pointed) star is char 69. 
-{\gregoriansymbolfont \char 71}%71
-\relax %
-}
-\font\textgregoriansymbolfont = gresym at 12 pt
+%\def\grestar{% the other (multimulti-pointed) star is char 69. 
+%{\gregoriansymbolfont \char 71}%71
+%\relax %
+%}
+%\font\textgregoriansymbolfont = gresym at 12 pt
 
-\def\textgrestar{% the other (multimulti-pointed) star is char 69. 
-{\textgregoriansymbolfont \char 71}%71
-\relax %
-}
+%\def\textgrestar{% the other (multimulti-pointed) star is char 69. 
+%{\textgregoriansymbolfont \char 71}%71
+%\relax %
+%}
 
 \newbox\linkbox
 \newbox\wordbox

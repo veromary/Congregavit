@@ -1,10 +1,7 @@
 \select@language {latin}
 \select@language {british}
-\contentsline {chapter}{\chapternumberline {1}Epistles and Gospels for Sundays and Holy Days}{5}
-\contentsline {section}{Proper of the Season}{5}
-\contentsline {section}{Proper of the Saints}{48}
-\contentsline {chapter}{\chapternumberline {2}The Holy Sacrifice of the Mass}{73}
-\contentsline {section}{The Asperges}{73}
+\contentsline {chapter}{\chapternumberline {1}The Holy Sacrifice of the Mass}{4}
+\contentsline {section}{The Asperges}{4}
 \select@language {latin}
 \select@language {british}
 \select@language {latin}
@@ -125,7 +122,7 @@
 \select@language {british}
 \select@language {latin}
 \select@language {british}
-\contentsline {section}{Mass of the Catechumens}{76}
+\contentsline {section}{Mass of the Catechumens}{8}
 \select@language {latin}
 \select@language {british}
 \select@language {latin}
@@ -402,7 +399,7 @@
 \select@language {british}
 \select@language {latin}
 \select@language {british}
-\contentsline {section}{Mass of the Faithful}{82}
+\contentsline {section}{Mass of the Faithful}{16}
 \select@language {latin}
 \select@language {british}
 \select@language {latin}
@@ -831,7 +828,7 @@
 \select@language {british}
 \select@language {latin}
 \select@language {british}
-\contentsline {section}{Prayers after Low Mass}{98}
+\contentsline {section}{Prayers after Low Mass}{34}
 \select@language {latin}
 \select@language {british}
 \select@language {latin}
@@ -884,96 +881,23 @@
 \select@language {british}
 \select@language {latin}
 \select@language {british}
-\contentsline {chapter}{\chapternumberline {3}Kyriale}{100}
-\contentsline {section}{I. In Paschal Time.}{101}
-\contentsline {section}{II. For feasts of the I class.}{104}
-\contentsline {section}{IV. For feasts of the II class.}{106}
-\contentsline {section}{VII. For feasts of the II class.}{108}
-\contentsline {section}{VIII. For feasts of the II class.}{111}
-\contentsline {section}{IX. For feasts of the Blessed Virgin.}{113}
-\contentsline {section}{X. For feasts of the Blessed Virgin.}{115}
-\contentsline {section}{XI. For Sundays throughout the Year.}{117}
-\contentsline {section}{XII. For feasts of the III class.}{119}
-\contentsline {section}{XIII. For feasts of the III class.}{121}
-\contentsline {section}{XVI. For ferias throughout the Year.}{123}
-\contentsline {section}{XVII. For the Sundays of Advent and Lent.}{124}
-\contentsline {section}{XVIII. For the ferias of Advent and Lent.}{125}
-\contentsline {section}{Credo I}{126}
-\contentsline {section}{Credo II}{128}
-\contentsline {section}{Credo III}{130}
-\contentsline {section}{Credo IV}{131}
-\contentsline {section}{Credo V}{133}
-\contentsline {section}{Credo VI}{135}
-\contentsline {chapter}{\chapternumberline {4}Hymns for the Church's Year}{138}
-\contentsline {section}{Advent}{138}
-\contentsline {section}{Christmas}{144}
-\contentsline {section}{Lent}{159}
-\contentsline {section}{Easter}{174}
-\contentsline {section}{Pentecost}{182}
-\contentsline {section}{Corpus Christi}{186}
-\contentsline {section}{Sacred Heart}{197}
-\contentsline {section}{Christ the King}{199}
-\contentsline {chapter}{\chapternumberline {5}Hymns for the Saints}{202}
-\contentsline {section}{Our Lady}{202}
-\contentsline {section}{Saints' Days}{217}
-\contentsline {section}{Holy Souls}{226}
-\contentsline {chapter}{\chapternumberline {6}Hymns for Mass}{232}
-\contentsline {section}{Processional/Recessional}{232}
-\contentsline {section}{Offertory}{247}
-\contentsline {section}{Communion}{250}
-\contentsline {chapter}{\chapternumberline {7}Prayers}{253}
-\contentsline {section}{Litany of the Saints}{253}
-\select@language {latin}
-\select@language {british}
-\contentsline {section}{Litany of the Holy Name of Jesus}{260}
-\contentsline {section}{Indulgenced prayers to the Sacred Heart}{262}
-\contentsline {section}{Litany of the Sacred Heart of Jesus}{264}
-\contentsline {section}{Litany of the Precious Blood of Jesus}{267}
-\contentsline {section}{Litany of the Blessed Virgin Mary}{269}
-\contentsline {section}{Litany of St.~Joseph}{272}
-\contentsline {chapter}{\chapternumberline {8}The Sacrament of Penance}{273}
-\contentsline {chapter}{\chapternumberline {9}Benediction of the Blessed Sacrament}{277}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
-\select@language {latin}
-\select@language {british}
+\contentsline {chapter}{\chapternumberline {2}Kyriale}{37}
+\contentsline {section}{I. In Paschal Time.}{38}
+\contentsline {section}{II. For feasts of the I class.}{43}
+\contentsline {section}{IV. For feasts of the II class.}{46}
+\contentsline {section}{VII. For feasts of the II class.}{48}
+\contentsline {section}{VIII. For feasts of the II class.}{51}
+\contentsline {section}{IX. For feasts of the Blessed Virgin.}{54}
+\contentsline {section}{X. For feasts of the Blessed Virgin.}{56}
+\contentsline {section}{XI. For Sundays throughout the Year.}{59}
+\contentsline {section}{XII. For feasts of the III class.}{61}
+\contentsline {section}{XIII. For feasts of the III class.}{63}
+\contentsline {section}{XVI. For ferias throughout the Year.}{66}
+\contentsline {section}{XVII. For the Sundays of Advent and Lent.}{67}
+\contentsline {section}{XVIII. For the ferias of Advent and Lent.}{68}
+\contentsline {section}{Credo I}{69}
+\contentsline {section}{Credo II}{71}
+\contentsline {section}{Credo III}{73}
+\contentsline {section}{Credo IV}{75}
+\contentsline {section}{Credo V}{77}
+\contentsline {section}{Credo VI}{79}
