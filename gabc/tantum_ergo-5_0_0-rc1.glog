@@ -1,0 +1,2 @@
+warning:name can't be empty
+warning:no name specified, put `name:...;' at the beginning of the file, can be dangerous with some output formats

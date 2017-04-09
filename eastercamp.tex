@@ -36,6 +36,7 @@
 
 \input conf-hymns.tex
 
+
 \grechangestaffsize{14}
 \grechangestyle{initial}{\fontsize{24}{24}\selectfont}
 \grechangedim{baselineskip}{45pt plus 5pt minus 5pt}{fixed}
@@ -143,7 +144,6 @@
 }
 
 
-\includeonly{servermass,kyriale}
 
 \begin{document}
 \pagenumbering{arabic}
@@ -199,15 +199,99 @@
 
 \pagestyle{headings}
 
-\include{propersSplit}
-
 \include{servermass}
 
-\include{kyriale}
+\def\tabmark{Kyriale}
 
-\include{hymns}
 
-\include{prayers}
+%\newcommand\kyrialeheading[3]{\section[#1. #2]{#1\\ \textnormal{\normalsize #2} \\ \textnormal{\normalsize\emph{#3}}}}
+\newcommand\kyrialeheading[3]{\section[#1. #2]{\Large \textbf{#1.} --- \textnormal{#2} \def\missaname{#3} \if*\missaname \else \\ \textnormal{\normalsize\emph{#3}}\fi}}
+
+\newcommand\includechant[2]{
+%\gresetfirstlineaboveinitial{#1}{#1}
+\gregorioscore{kyriale/#2.tex}
+%\gresetfirstlineaboveinitial{}{}
+}
+\def\gretranslationformat#1{%
+{\normalsize\selectfont #1}%
+}
+
+
+
+\chapter{Kyriale}
+
+\kyrialeheading{I}{In Paschal Time.}{Lux et origo}
+%\section[Ordinarium I]{I --- Lux et origo\\ \textnormal{\normalsize\emph{Tempore Paschalis}}}
+
+\includechant{8.}{kyrie_I}
+
+\eject
+
+\includechant{4.}{gloria_I}
+
+\eject
+
+\includechant{4.}{sanctus_I}
+
+\includechant{4.}{agnus_I}
+
+\rubrics{From the Paschal Vigil till Easter Saturday inclusive.}
+
+\includechant{8.}{ite_Ia}
+\vskip-6pt
+\hskip.5cm De-o \hskip2pt grá-ti- as, ~  allelúia, \quad alle- lú-ia.
+
+
+\kyrialeheading{XII}{For feasts of the III class.}{Pater cuncta}
+%\section[Ordinarium XII]{XII --- Pater cuncta\\
+%\textnormal{\normalsize\emph{For feasts of the III class.}}}
+
+\includechant{8.}{kyrie_XII}
+
+\includechant{4.}{gloria_XII}
+
+\includechant{2.}{sanctus_XII}
+
+\includechant{2.}{agnus_XII}
+
+\includechant{8.}{ite_XII}
+
+
+
+%%%\include{hymns}
+
+\def\tabmark{Seasonal Hymns}
+
+%\chapter[Hymns for the Church's Year][Hymns Temporal]{Hymns for the Church's Year}
+\chapter{Hymns for the Church's Year}
+
+%\addthumb{Hymns}{\normalsize\textbf{Hym}}{white}{black}
+%\westThumb{Hymns}{Year}
+
+\input easter
+
+\input corpusChristi
+
+\input sacredheart
+
+\input christking
+
+
+\def\tabmark{Saints' Hymns}
+\chapter{Hymns for the Saints}
+
+
+\input ourlady
+
+
+\def\tabmark{General Hymns}
+\chapter{Hymns for Mass}
+
+\input general
+
+\input offertory
+
+
 
 \include{confession}
 

@@ -4,10 +4,8 @@
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
 \setsansfont{Calluna Sans}
-\setmainfont{EB Garamond}
+\setmainfont{Calluna}
 \newfontfamily{\semibf}{Calluna-Semibold}
-\newfontfamily{\anavio}{Anavio}
-\newfontface{\vectis}{Vectis_Bold_OT}
 \newfontfamily{\libertine}{Linux Libertine O}
 \newfontface{\versicles}{Versiculum}
 \newfontface{\cruci}{Juuji}
@@ -19,7 +17,7 @@
 %\usepackage{fncylab}
 %\usepackage{hanging}
 \usepackage{graphicx}
-\usepackage{gregoriotex}
+\usepackage[autocompile]{gregoriotex}
 %\usepackage{libgreek}
 %\usepackage{scrpage2}
 %\settrimmedsize{9in}{6in}{*}
@@ -35,16 +33,11 @@
 
 \input conf-hymns.tex
 
-\setgrefactor{18}
-
 \setsecnumdepth{chapter}
 
 \setsecheadstyle{\LARGE\scshape\centering}
 \setsubsecheadstyle{\Large\scshape\centering}
 \setsubsubsecheadstyle{\large\scshape\centering}
-
-\def\greinitialformat#1{%
-{\fontsize{24}{24}\vectis #1}}
 
 
 \def\gretranslationformat#1{%
@@ -61,11 +54,7 @@
 
 \rubrics{Oratio Ante Scholam Musicae}
 
-\gresetfirstannotation{Ant.}
-\gresetsecondannotation{5.}
-%\gresetfirstlineaboveinitial{Ant.\\5.}{Ant.\\5.}
-%\gresetsecondlineaboveinitial{5.}{5.}
-\includescore{kyriale/repleatur.tex}
+\gregorioscore{kyriale/repleatur}
 
 \bigskip
 
@@ -82,26 +71,26 @@ my lips will rejoice for as long as I sing unto thee.]
 \vern{I will sing psalms unto God all the days of my life.}
 \latin{Orémus.}
 \vern{Let us pray.}
-\latin{Súscipe, quaésumus, Dómine,\\
-sacrifícium labiórum nostrórum: \dag\ \\
-et intercedéntibus sanctis tuis\\
-Gregório atque Caecília, tua nobis\\
-pietáte concéde; ut, quam\\
-offérimus laudem peregrinántes in\\
-terris, * hanc tibi perpétuo\\
-concinére mereámur in caelis.\\
-Per Christum Dóminum nostrum. \\
+\latin{Súscipe, quaésumus, Dómine,
+sacrifícium labiórum nostrórum: \dag\ 
+et intercedéntibus sanctis tuis
+Gregório atque Caecília, tua nobis
+pietáte concéde; ut, quam
+offérimus laudem peregrinántes in
+terris, * hanc tibi perpétuo
+concinére mereámur in caelis.
+Per Christum Dóminum nostrum. 
 \Rbar Amen.}
-\vern{Accept, we beseech thee, O Lord,\\
-the sacrifice (homage) of our lips,\\
-and through the intercession of thy\\
-saints Gregory and Caecilia, grant\\
-unto us thy mercy; that through\\
-these offerings of praise during our\\
-earthly pilgrimage, * we may be\\
-found worthy to sing your praises\\
+\vern{Accept, we beseech thee, O Lord,
+the sacrifice (homage) of our lips,
+and through the intercession of thy
+saints Gregory and Caecilia, grant
+unto us thy mercy; that through
+these offerings of praise during our
+earthly pilgrimage, * we may be
+found worthy to sing your praises
 eternally in heaven.
-Through\\
+Through
 Christ our Lord. \Rbar Amen.}
 \end{Parallel}
 

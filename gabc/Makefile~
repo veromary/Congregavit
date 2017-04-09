@@ -1,6 +1,0 @@
-.gabc.tex :
-	gregorio $<
-
-all : *.tex
-
-
