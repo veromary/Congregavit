@@ -60,7 +60,7 @@
 \makeindex[firstlines]
 \makeindex[sources]
 \makeindex[prayers]
-\onecolindextrue
+%\onecolindextrue
 \newcommand\firstlindex[1]{\specialindex{firstlines}{hymnNo}{#1|upnums}}
 \newcommand\prayerindex[1]{\specialindex{prayers}{page}{#1}}
 \makepagestyle{index}
@@ -187,13 +187,13 @@
 
 \newpage
 
-~
+%~
 
-\vfill
+%\vfill
 
-\input acknowledgements.tex
+%\input acknowledgements.tex
 
-\eject
+%\eject
 
 \tableofcontents*
 
@@ -225,11 +225,7 @@
 
 \includechant{8.}{kyrie_I}
 
-\eject
-
 \includechant{4.}{gloria_I}
-
-\eject
 
 \includechant{4.}{sanctus_I}
 
@@ -242,21 +238,26 @@
 \hskip.5cm De-o \hskip2pt grá-ti- as, ~  allelúia, \quad alle- lú-ia.
 
 
-\kyrialeheading{XII}{For feasts of the III class.}{Pater cuncta}
-%\section[Ordinarium XII]{XII --- Pater cuncta\\
-%\textnormal{\normalsize\emph{For feasts of the III class.}}}
+\kyrialeheading{VIII}{For feasts of the II class.}{De angelis}
+%\section[Ordinarium VIII]{VIII --- De Angelis\\
+%\textnormal{\normalsize\emph{For feasts of the II class.}}}
 
-\includechant{8.}{kyrie_XII}
+\includechant{5.}{kyrie_VIII}
 
-\includechant{4.}{gloria_XII}
+\includechant{5.}{gloria_VIII}
 
-\includechant{2.}{sanctus_XII}
+\includechant{6.}{sanctus_VIII}
 
-\includechant{2.}{agnus_XII}
+\includechant{6.}{agnus_VIII}
 
-\includechant{8.}{ite_XII}
+\includechant{5.}{ite_VIII}
+\vskip-6pt
+\hskip4mm De- \hskip8pt o \hskip31mm grá-ti-as.
 
 
+\kyrialeheading{Credo I}{}{}
+
+\gregorioscore{kyriale/credo_I}
 
 %%%\include{hymns}
 
@@ -272,7 +273,7 @@
 
 \input corpusChristi
 
-\input sacredheart
+%\input sacredheart
 
 \input christking
 
@@ -289,7 +290,7 @@
 
 \input general
 
-\input offertory
+%\input offertory
 
 
 
@@ -301,33 +302,33 @@
 \makeoddhead{headings}{}{\scshape\rightmark}{\thepage}
 \makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
 \renewcommand{\preindexhook}{\footnotesize}
-\renewcommand{\indexname}{Index}
-\chapter*{Index of Hymns}
+\renewcommand{\indexname}{Index by Hymn Number}
+%\chapter*{Index of Hymns}
   \thispagestyle{indextitlepagestyle}
 \pagestyle{index}
-{\raggedleft \tiny \scshape Hymn\par}
-\printindex[freefirstlines]
+%{\raggedleft \tiny \scshape Hymn\par}
+\printindex[firstlines]
 
 %\bigskip
 
-{\centering \textsc{Extra Prayers}\par}
-\vskip-\baselineskip
-{\raggedleft \tiny \scshape Page\par}
-\printindex[prayers]
+%{\centering \textsc{Extra Prayers}\par}
+%\vskip-\baselineskip
+%{\raggedleft \tiny \scshape Page\par}
+%\printindex[prayers]
 %\input {prayers.ind}
 
-\vfil
+%\vfil
 
-\eject
+%\eject
 
-\normalsize
+%\normalsize
 
-\pagestyle{empty}
+%\pagestyle{empty}
 
-\input colophon.tex
+%\input colophon.tex
 
-\newpage
+%\newpage
 
-\newpage
+%\newpage
 
 \end{document}
