@@ -1,0 +1,302 @@
+\documentclass[a5paper,11pt,twoside,openany]{memoir}
+\usepackage[british,latin]{babel}
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+%\setmainfont[Numbers=OldStyle]{Linux Libertine O}
+\setmainfont{Linux Libertine O}
+\setsansfont{Linux Biolinum O}
+\newfontfamily{\anavio}{EB Garamond}
+\newfontfamily{\libertine}{Linux Libertine O}
+\newfontface{\versicles}{Versiculum}
+\usepackage{mparhack}
+\usepackage{rotating}
+\usepackage{parallel}
+\usepackage{multicol}
+% Multicol in the Litanies
+\usepackage{fncylab}
+\usepackage{lettrine}
+\usepackage{graphicx}
+\usepackage[autocompile]{gregoriotex}
+%\settrimmedsize{9in}{6in}{*}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{0pt}
+%\addtolength{\trimedge}{-\paperwidth}
+\settypeblocksize{170mm}{106mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.4}
+\setlrmargins{*}{*}{1.6}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
+
+%\usepackage{fancytabs}
+\usepackage{metalogo}
+
+\input conf-hymns.tex
+
+
+\grechangestaffsize{14}
+\grechangestyle{initial}{\fontsize{24}{24}\selectfont}
+\grechangedim{baselineskip}{45pt plus 5pt minus 5pt}{fixed}
+
+
+%\pretolerance 140
+%\tolerance 300
+%\hbadness 141
+%\setlength{\emergencystretch}{1em}
+%\hfuzz 0.3pt
+%\widowpenalty=10000
+%\vfuzz \hfuzz
+
+\renewcommand{\copyrightinput}[1]{}
+\renewcommand{\unlikely}[1]{}
+\renewcommand{\permissioned}[1]{}
+\renewcommand{\FreeAlternative}[1]{\input #1}
+
+%\renewcommand{\textbf}[1]{\pdfliteral direct {2 Tr 0.3 w}{\addfontfeature{FakeStretch=1.1} #1}{0 Tr 0 w}}
+
+\makeindex[firstlines]
+\makeindex[sources]
+\makeindex[prayers]
+%\onecolindextrue
+\newcommand\firstlindex[1]{\specialindex{firstlines}{hymnNo}{#1|upnums}}
+\newcommand\prayerindex[1]{\specialindex{prayers}{page}{#1}}
+\makepagestyle{index}
+%\makeheadrule{index}{\textwidth}{\normalrulethickness}
+\makeevenhead{index}{\thepage\\ \ }{\scshape Index by Hymn Number\\ \ }{}
+\makeoddhead{index}{}{\scshape Index by Hymn Number\\ \ }{\thepage}
+\makeevenfoot{index}{}{}{}
+\makeoddfoot{index}{}{}{}
+
+\newcommand{\myidxitem}  {\par\hangindent 40pt}
+
+\newenvironment{prayindex}{%
+  \preindexhook
+  \parindent0mm
+  \parskip0mm plus .3pt\relax
+  \let\item\myidxitem}%
+{\par\relax}
+
+%\includeonly{}
+
+\def\tabmark{}
+
+\renewcommand{\DefaultOptionsFile}{optfile.cfl}
+
+
+\newcommand\chaphead{}
+\makepsmarks{headings}{%
+ \def\chaptermark##1{\markboth{##1}{##1}}% left and right marks
+ \def\sectionmark##1{\markright{##1}}
+}
+
+\makeoddhead{plain}{\fancytab{%\textcolor{black}{
+                    \tabmark}{\thechapter}}{}{}
+\makeoddhead{headings}{\fancytab{%\textcolor{black}{
+                       \tabmark}{\thechapter}}{\scshape\rightmark}{\thepage}
+\makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
+\pagestyle{headings}
+
+\fancytabsFloor{1}% to switch off tabs on the contents page
+\fancytabsCount{4}
+\fancytabsHeight{1.8in}
+%\fancytabsWidth{1.5cm} trying to get tabs to overlap the margin
+
+\pretitle{\bigskip \par \begin{center}\HUGE}
+\posttitle{\par\end{center}\vskip0.5em}
+\preauthor{\bigskip\begin{center}
+           \LARGE \scshape \lineskip 0.5em%
+           \begin{tabular}[t]{c}}
+\postauthor{\end{tabular}\par\end{center}}
+\predate{\bigskip\begin{center}\large}
+\postdate{\par\end{center}}
+
+\makechapterstyle{stMary}{
+\renewcommand\beforechapskip{30pt}
+\renewcommand\midchapskip{0pt}
+\renewcommand\afterchapskip{20pt}
+\renewcommand\chapternamenum{}
+\renewcommand\printchaptername{}
+\renewcommand\printchapternum{}
+\renewcommand\chaptitlefont{\huge\scshape\centering}
+}
+\chapterstyle{stMary}
+
+%
+% chapters need numbers for fancytabs to work
+% try this to turn off section numbers
+%
+\setsecnumdepth{chapter}
+
+\setsecheadstyle{\LARGE\scshape\centering}
+\setsubsecheadstyle{\Large\scshape\centering}
+\setsubsubsecheadstyle{\large\scshape\centering}
+
+%\usepackage{lipsum}
+
+
+\def\paracoltest{
+~ ~ ~
+
+\vskip-\baselineskip
+}
+
+
+
+\begin{document}
+\pagenumbering{arabic}
+\selectlanguage{british}
+
+\labelformat{hymnNo}{\upnums{#1}}
+
+\title{Congregavit nos in unum}
+
+%\date{22nd November 2011}
+
+\author{Veronica Brandt}
+
+{
+
+\ 
+
+%\maketitle
+
+%\centerline{version 3.00}
+
+\vfill
+
+\begin{center}
+{\HUGE Penrose Park Camp}
+
+\vskip10em
+
+{\scshape \Large a pew book}
+
+\bigskip
+
+MMXVIII
+
+\vskip6em
+
+\end{center}
+
+\vfill
+}
+
+\thispagestyle{empty}
+
+\pagestyle{empty}
+
+\newpage
+
+%~
+
+%\vfill
+
+%\input acknowledgements.tex
+
+%\eject
+
+\tableofcontents*
+
+\pagestyle{headings}
+
+\newcommand\includechant[2]{
+%\gresetfirstlineaboveinitial{#1}{#1}
+\gregorioscore{kyriale/#2.tex}
+%\gresetfirstlineaboveinitial{}{}
+}
+\def\gretranslationformat#1{%
+{\normalsize\selectfont #1}%
+}
+
+\chapter{Hymns}
+
+% 18
+\input general/WeStandForGod
+
+%\input copyright/ReceiveOFather
+
+% 36
+\input corpusChristi/DrawNigh
+
+% 6
+\input general/shortPraiseHoliest
+
+% 100
+\input christking/shortHailRedeemer
+
+St Patrick’s Breastplate; 
+
+O God we Give; 
+
+\input corpusChristi/SoulOfMy
+
+Humbly We Adore Thee; 
+
+\input general/AllCreatures
+
+\input general/HolyGod
+
+O King of Might and Splendour;  
+
+\input corpusChristi/LetAllMortal
+
+\input corpusChristi/JesusMyLord
+
+\input ourlady/OPurest
+
+\input general/Firmly
+
+\input offertory/AlmightyFatherTake
+
+\input corpusChristi/Godhead
+
+Help of Christians;  
+
+\input general/PraiseToTheLord
+
+\input general/MyGodAccept
+
+\input corpusChristi/SweetSacrament
+
+\input corpusChristi/OBreadofHeaven
+
+\input general/FaithFathers
+
+
+\include{benediction}
+
+\makeoddhead{plain}{}{}{}
+\makeoddhead{headings}{}{\scshape\rightmark}{\thepage}
+\makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
+\renewcommand{\preindexhook}{\footnotesize}
+\renewcommand{\indexname}{Index by Hymn Number}
+%\chapter*{Index of Hymns}
+  \thispagestyle{indextitlepagestyle}
+\pagestyle{index}
+%{\raggedleft \tiny \scshape Hymn\par}
+\printindex[firstlines]
+
+%\bigskip
+
+%{\centering \textsc{Extra Prayers}\par}
+%\vskip-\baselineskip
+%{\raggedleft \tiny \scshape Page\par}
+%\printindex[prayers]
+%\input {prayers.ind}
+
+%\vfil
+
+%\eject
+
+%\normalsize
+
+%\pagestyle{empty}
+
+%\input colophon.tex
+
+%\newpage
+
+%\newpage
+
+\end{document}
