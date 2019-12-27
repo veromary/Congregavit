@@ -2,16 +2,16 @@
 \usepackage[british,latin]{babel}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
-%\setmainfont[Numbers=OldStyle]{Linux Libertine O}
-\setmainfont{Linux Libertine O}
-\setsansfont{Linux Biolinum O}
-\newfontfamily{\anavio}{EB Garamond}
+\setmainfont[Numbers=OldStyle]{Calluna Regular}
+\setsansfont{Calluna Sans}
+\newfontfamily{\anavio}{Anavio Bold}
 %\newfontfamily{\vectis}{Vectis}
 \newfontface{\vectis}{Vectis Bold}
 \newfontfamily{\libertine}{Linux Libertine O}
 \newfontface{\versicles}{Versiculum}
 \newfontface{\cruci}{Juuji}
 \usepackage{mparhack}
+\usepackage{relsize}
 \usepackage{rotating}
 \usepackage{parallel}
 \usepackage{multicol}
@@ -143,7 +143,7 @@
 }
 
 
-\includeonly{servermass,kyriale}
+%\includeonly{servermass,kyriale}
 
 \begin{document}
 \pagenumbering{arabic}
@@ -222,7 +222,7 @@
   \thispagestyle{indextitlepagestyle}
 \pagestyle{index}
 {\raggedleft \tiny \scshape Hymn\par}
-\printindex[freefirstlines]
+\printindex[firstlines]
 
 %\bigskip
 
