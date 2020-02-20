@@ -1,0 +1,9 @@
+I installed
+pdfpages
+pdflscape
+
+Also pdfcrop and pdfjam
+
+Also symlinked the new binaries into my home bin directory
+
+
