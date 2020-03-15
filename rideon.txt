@@ -82,89 +82,73 @@ Discover
   • Tutorials
   • About Us
 
-The Glory of These Forty Days
+This Joyful Eastertide
 
 Contents
 
-TopTextAuthorTranslatorText InfoNotesTuneTimelineArrangementsMediaPage Scans
-Instances
-[the_glory_of_these_forty_days]
+TopTextAuthorText InfoNotesTuneTimelineArrangementsMediaPage ScansInstances
+[this_joyful_eastertide_away_w]
 
-The glory of these forty days
+This joyful Eastertide Away with sin and sadness!
 
-Author: Pope Gregory I; Translator: Maurice F. Bell
-Tune: ERHALT UNS, HERR
-Published in 28 hymnals
+Author: George Ratcliffe Woodward (1894)
+Tune: VRUECHTEN
+Published in 59 hymnals
 
-Printable scores: PDF, MusicXMLAudio files: MIDI, Recording  
+Printable scores: PDF, MusicXMLAudio files: MIDI, Recording
 
 FlexScore
 
-FlexScore The Glory of These Forty Days
+FlexScore This Joyful Eastertide
 
 Piano/Organ
 
-[19519] Benchmarks (A Service Resource for Organ…
+[18396] This Joyful Eastertide - (Choral Score)
 
 Choral
 
-[G-4354] Passion Chorale
+[c5383] OUR HEARTS REJOICE THIS DAY
 
 Representative Text
 
-1 The glory of these forty days
-We celebrate with songs of praise;
-For Christ, through whom all things were made,
-Himself has fasted and has prayed.
+1 This joyful Eastertide,
+away with sin and sorrow!
+My Love, the Crucified,
+has sprung to life this morrow:
 
-2 Alone and fasting, Moses saw
-The loving God who gave the Law;
-And to Elijah, fasting, came
-The steeds and chariots of flame.
+Refrain:
+Had Christ, who once was slain,
+not burst His three-day prison,
+our faith had been in vain;
+but now has Christ arisen,
+arisen, arisen;
+but now has Christ arisen!
 
-3 So Daniel trained his mystic sight,
-Delivered from the lions' might;
-And John, the Bridegroom’s friend, became
-The herald of the Savior’s name.
+2 Death’s flood has lost its chill
+since Jesus crossed the river;
+Lover of souls, from ill
+my passing soul deliver: [Refrain]
 
-4 Then grant that we like them be true,
-Consumed in fast and prayer with you;
-Our spirits strengthen with your grace,
-And give us joy to see your face.
+3 My flesh in hope shall rest
+and for a season slumber
+till trump from east to west
+shall wake the dead in number: [Refrain]
 
-5 O Father, Son and Spirit blest,
-To you be ev'ry prayer addressed,
-Who are in threefold name adored,
-From age to age the only Lord.
-
-
-Source: One in Faith #429
+Source: Hymns to the Living God #175
 All representative texts • Compare texts^ top
 
-Author: Pope Gregory I
+Author: George Ratcliffe Woodward
 
-[Gregory_Gr]Gregory I., St., Pope. Surnamed The Great. Was born at Rome about
-A.D. 540. His family was distinguished not only for its rank and social
-consideration, but for its piety and good works. His father, Gordianus, said to
-have been the grandson of Pope Felix II. or III., was a man of senatorial rank
-and great wealth; whilst his mother, Silvia, and her sisters-in-law, Tarsilla
-and Aemiliana, attained the distinction of canonization. Gregory made the best
-use of his advantages in circumstances and surroundings, so far as his
-education went. "A saint among saints," he was considered second to none in
-Rome in grammar, rhetoric, and logic. In early life, before his father's death,
-he became a member of the Senate; and soon after he was thirty and ac… Go to
-person page >
-
-
-Translator: Maurice F. Bell
-
-Bell, Maurice Frederick, M.A., son of G. W. Bell, barrister at law, was born in
-London, Sept. 3, 1862. He graduated from Hertford Coll., Oxford (B.A. 1884,
-M.A. 1887), was ordained D. 1885, P. 1886, and has been since 1904 Vicar of St.
-Mark, Regent's Park, London. He contributed to The English Hymnal, 1906, four
-translations (60, 68, 624, 634), and "O dearest Lord, by all adored" (Close of
-Festival), 1906. [Rev. James Mearns, M.A.] --John Julian, Dictionary of
-Hymnology, New Supplement (1907)  Go to person page >
+Educated at Caius College in Cambridge, England, George R. Woodward (b.
+Birkenhead, Cheshire, England, 1848; d. Highgate, London, England, 1934) was
+ordained in the Church of England in 1874. He served in six parishes in London,
+Norfolk, and Suffolk. He was a gifted linguist and translator of a large number
+of hymns from Greek, Latin, and German. But Woodward's theory of translation
+was a rigid one–he held that the translation ought to reproduce the meter and
+rhyme scheme of the original as well as its contents. This practice did not
+always produce singable hymns; his translations are therefore used more often
+today as valuable resources than as congregational hymns. With Charles Wood he
+published three series of The Cowley Carol Book (19… Go to person page >
 
 ^ top
 
@@ -175,141 +159,117 @@ Text Information
   • 
   • Scripture References
   • 
-  • Languages
 
 Related Texts
 
-  • Eternal Lord of Love, Behold Your Church
-  • O wondrous type! O vision fair
-  • Forty Days and Forty Nights
-  • Lord, who throughout these forty days
-  • Christ Upon the Mountain Peak
+  • O Sons and Daughters, Let Us Sing!
+  • Good Christians All, Rejoice and Sing
+  • Christ Is Alive! Let Christians Sing
+  • The strife is o'er, the battle done
+  • Come, Ye Faithful, Raise the Strain
 
-First Line:  The glory of these forty days
-Title:       The Glory of These Forty Days
-Latin Title: Clarum decus jejunii
-Author:      Pope Gregory I
-Translator:  Maurice F. Bell
-Meter:       8.8.8.8
-Source:      Latin, 6th cent.
-Language:    English
-Copyright:   Public Domain
+First Line:         This joyful Eastertide Away with sin and sadness!
+Title:              This Joyful Eastertide
+Author:             George Ratcliffe Woodward (1894)
+Meter:              6.7.6.7 with refrain
+Refrain First Line: Had Christ, who once was slain
+Copyright:          Public Domain
 
-  • Exodus 19:20
+  • Joshua 3:14-17
     (hymns)
-  • Exodus 20:21
+  • Job 19:25-27
     (hymns)
-  • Exodus 34:27-35
+  • Psalm 4:8
     (hymns)
-  • Deuteronomy 9:8-21
+  • Psalm 16
     (hymns)
-  • 2 Kings 2:1-14
+  • Psalm 16:9-11
     (hymns)
-  • Daniel 1
+  • Isaiah 35:10
     (hymns)
-  • Daniel 6-7
+  • Matthew 24:30-31
     (hymns)
-  • Joel 2:1-2
+  • Matthew 28:1-10
     (hymns)
-  • Matthew 1:12-13
+  • Mark 16:1-8
     (hymns)
-  • Matthew 3:1-4
+  • Luke 24:1-12
     (hymns)
-  • Matthew 4:1-11
+  • John 10:1-8
     (hymns)
-  • Matthew 6:1-6
+  • John 20:10-18
     (hymns)
-  • Matthew 6:16-21
+  • Acts 2:24-26
     (hymns)
-  • Matthew 6:25-34
+  • Romans 6:1-11
     (hymns)
-  • Matthew 12:12-13
+  • Romans 8:37-39
     (hymns)
-  • Matthew 17:1-9
+  • 1 Corinthians 14:20
     (hymns)
-  • Mark 1:1-4
+  • 1 Corinthians 15
     (hymns)
-  • Mark 1:9-15
+  • 1 Thessalonians 4:13-18
     (hymns)
-  • Mark 2:18-22
+  • 1 Peter 3:18-19
     (hymns)
-  • Mark 9:2-10
-    (hymns)
-  • Luke 3:1-18
-    (hymns)
-  • Luke 4:1-13
-    (hymns)
-  • Luke 9:28-39
-    (hymns)
-  • John 3:29
-    (hymns)
-  • John 13:1-20
-    (hymns)
-  • John 15:14-15
-    (hymns)
-  • Romans 16:25-27
-    (hymns)
-  • 2 Corinthians 3:12-4:2
-    (hymns)
-  • 2 Corinthians 4:6
-    (hymns)
-  • Hebrews 12:2
+  • Revelation 14:13
     (hymns)
 
-  • Year A, Lent, First Sunday
-    Related to Matthew 4 (NPM)
-  • Year A, Lent, Second Sunday
-    Related to Matthew 17 (NPM)
-  • Year 3, Epiphany Season, Transfiguration Sunday
-    Related to Exodus 34 (DS)
-  • Year C, Lent, First Sunday
-
-English
-
-  • Breaking Bread (Vol. 39) #135
-  • Evangelical Lutheran Worship #320
-  • Gather (3rd ed.) #481
-  • Gather Comprehensive #388
-  • Gather Comprehensive, Second Edition #397
-  • Glory and Praise (3rd. ed.) #273
-  • Glory to God: the Presbyterian Hymnal #165
-  • Hymnal 1982: according to the use of the Episcopal Church #143
-  • Journeysongs (2nd ed.) #379
-  • Journeysongs (3rd ed.) #347 10 shown out of 20
-
-Spanish
-
-  • Oramos Cantando = We Pray In Song #407
+  • Year A, Easter season, Easter Day
+    (NPM)
 
 ^ top
 
 Notes
 
-Clarum decus jejunii, p. 236, i. There does not seem to be any reason for
-ascribing this to St. Gregory. Additional translation: The glory of these forty
-days, by M. F. Bell, in The English Hymnal, 1906, No. 68. [Rev. James Mearns,
-M.A.]
+Scripture References;
+st. 2 = 1 Cor. 15:51-52
+ref. = 1 Cor. 15:14, 20
 
---Excerpt from John Julian, Dictionary of Hymnology, New Supplement (1907)
+George R. Woodward (b. Birkenhead, Cheshire, England, 1848; d. Highgate,
+London, England, 1934) wrote the text of this Easter carol to fit the VRUCHTEN
+tune. The text expresses the joy Christ's resurrection brings to believers (st.
+1); that joy provides a sense of security throughout our lives (st. 2) and
+gives confidence even in the face of death (st. 3). The hymn was first
+published in Woodward's Carols for Easter and Ascension (1894), which later
+became a part of the 1902 edition of his famous Cowley Carol Book.
+
+Educated at Caius College in Cambridge, England, Woodward was ordained in the
+Church of England in 1874. He served in six parishes in London, Norfolk, and
+Suffolk. He was a gifted linguist and translator of a large number of hymns
+from Greek, Latin, and German. But Woodward's theory of translation was a rigid
+one–he held that the translation ought to reproduce the meter and rhyme scheme
+of the original as well as its contents. This practice did not always produce
+singable hymns; his translations are therefore used more often today as
+valuable resources than as congregational hymns. With Charles Wood he published
+three series of The Cowley Carol Book (1901, 1902, 1919), two editions of Songs
+of Syon (1904, 1910), An Italian Carol Book (1920), and the Cambridge Carol
+Book (1924). Much of the unfamiliar music introduced in The English Hymnal
+(1906) resulted from Woodward's research. He also produced an edition of the
+Piae Cantiones of 1582 (1910) and published a number of his translations in
+Hymns of the Greek Church (1922).
+
+Liturgical Use:
+Easter season; funerals.
+
+--Psalter Hymnal Handbook, 1988
 
 ^ top
 
 Tune
 
-ERHALT UNS, HERR
+VRUECHTEN
 
-
-OLD HUNDREDTH
-
-This tune is likely the work of the composer named here, but has also been
-attributed to others as shown in the instances list below. According to the
-Handbook to the Baptist Hymnal (1992), Old 100th first appeared in the Genevan
-Psalter, and "the first half of the tune contains phrases which may ha…
+VRUCHTEN is originally a seventeenth-century Dutch folk tune for the love song
+"De liefde Voortgebracht." It became a hymn tune in Joachim Oudaen's David' s
+Psalmen (1685) as a setting for "Hoe groot de vruchten zijn." The tune is
+distinguished by the melismas that mark the end of stanza lines and b…
 
 Go to tune page >
 
 
-All tunes published with 'The Glory of These Forty Days'^ top
+All tunes published with 'This Joyful Eastertide'^ top
 
 Timeline
 
@@ -317,19 +277,37 @@ Timeline
 
 Arrangements
 
+PowerPoint
+                                                                     [this]
+  • THIS JOYFUL EASTERTIDE (Voices United 177)
+
 Piano/Organ
 
-  • Benchmarks (A Service Resource for Organ)
-  • Music for a Celebration, Set 4                                     [19519]
-  • The Art of Hymn Playing: 250 Introductions, Preludes, Free
-    Accompaniments, & Alternate Harmonizations 2nd Edition
+  • This Joyful Eastertide - (Choral Score)
+  • This Joyful Eastertide - (Variants and Processional)             [18396]
+  • This Joyful Eastertide
 
 More Piano/Organ...
 Choral
 
-  • Passion Chorale                                                    [G-4354]
+  • OUR HEARTS REJOICE THIS DAY                                      [c5383]
 
 More Choral...
+Instrumental
+
+  • This Joyful Eastertide
+  • Alleluia, Christ Is Risen!                                       [6798]
+  • Alleluia, Christ Is Risen!
+
+More Instrumental...
+Handbells
+
+  • Let Joyful Alleluias Ring!
+  • THIS JOYFUL EASTERTIDE                                           [20_1509L]
+  • Seasons of Praise (Artistic Hymn-Based Medleys for Solo Ringing
+    and Piano)
+
+More Handbells...
 
 More arrangements^ top
 
@@ -340,7 +318,7 @@ Media
   • Audio
 
 Instrument/Format [Accompaniment       ]
-Hymn Instance [Glory to God: the... #165]
+Hymn Instance [Glory to God: the... #244     ]
 [Advanced Options]
 You have access to this FlexScore.
 Download: [pdf] [png]
@@ -381,273 +359,476 @@ licensing agent (e.g. CCLI, OneLicense, etc).
 
 This is a preview of your FlexScore.
 
-The Cyber Hymnal #1858
+The Cyber Hymnal #6650
 
   • Adobe Acrobat image (PDF)
-  • Noteworthy Composer score (NWC)
   • XML score (XML)
 
-  • MIDI file from The Cyber Hymnal #1858
-  •  Audio recording from Evangelical Lutheran Worship #320
-  •  Audio recording from Glory to God: the Presbyterian Hymnal #165
+Psalter Hymnal (Gray) #403
+
+  • Full Score (PDF, XML)
+  • Bulletin Score (melody only) (PDF)
+
+Worship and Rejoice #308
+
+  • Bulletin Score (melody only) (PDF, XML)
+  • Bulletin Score (PDF, XML)
+  • Full Score (PDF, XML)
+
+  •  Audio recording from Glory to God: the Presbyterian Hymnal #244
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • Audio recording from Lift Up Your Hearts: psalms, hymns, and spiritual
+    songs #202
+  • MIDI file from Psalter Hymnal (Gray) #403
+  • MIDI file from Psalter Hymnal (Gray) #403
+  • MIDI file from Worship and Rejoice #308
+  • MIDI file from Worship in Song: A Friends Hymnal #117
 
 ^ top
 
 Page Scans
 
- 
 [low]
-Hymn on One License
 View Page
-RitualSong (2nd ed.) (2016), p.712
+Hymns to the Living God (2017), p.141
 
 ^ top
 
 Instances
 
-Instances (1 - 23 of 23)Add/Remove Fields requires JavaScript to run.
+Instances (1 - 45 of 45)Add/Remove Fields requires JavaScript to run.
 [Add/Remove Fields]
+Text
 
-Breaking Bread (Vol. 39) #135
+Ancient and Modern #219
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: St. Gregory the Great, ca.
-540-604; Maurice F. Bell, 1862-1947 Meter: LM Date: 2019 Subject: Seasonal
-Music | Lent Source: Tr.: English Hymnal, 1906
+Display Title: Had Christ, that once was slain First Line: This joyful
+Eastertide Tune Title: VRUECHTEN Author: George Ratcliffe Woodward (1848-1934) 
+Meter: 67 67 and refrain Scripture: John 20:10-18; 1 Corinthians 15:12-20 Date:
+2013 Subject: Church Year | Easter; Easter | ; Future hope | ; Joy | ; The
+Third Sunday of Easter | Year A
  
-Breaking Bread (Vol. 39) #135
+Ancient and Modern #219
+
+Anglican Hymns Old and New (Rev. and Enl.) #761
+
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN (EASTER-TIDE) Author: George R. Woodward Date: 2008
+ 
+Anglican Hymns Old and New (Rev. and Enl.) #761
+
+Catholic Book of Worship III #397
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: Anonymous; M. Owen Lee, CSB Scripture: 1 Corinthians
+15:12-23 Date: 1994 Subject: Easter Season | ; Sacraments/Rites | Baptism
+ 
+Catholic Book of Worship III #397
+
+Christian Worship #160
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 with
+Refrain Date: 1993 Subject: Easter |
+ 
+Christian Worship #160
+
+Church Hymnal, Fifth Edition #289
+
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Date:
+2000
+ 
+Church Hymnal, Fifth Edition #289
+Text
+
+Church Hymnary (4th ed.) #415
+
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George Ratcliffe Woodward (1848-1934) Meter: 6767 and
+refrain Scripture: 1 Corinthians 15:12-20; 1 Corinthians 15:24-26; 1
+Corinthians 15:51-52; 1 Thessalonians 4:16; Acts 2:24; John 20:10-18; Matthew
+24:30-31; Psalm 16:9-11 Date: 2005 Subject: Life in Christ | Christ Risen -
+Resurrection and Exaltation; Christian Year | Easter
+ 
+Church Hymnary (4th ed.) #415
+Page Scan
+
+Common Praise #161
+
+Display Title: Had Christ, that once was slain First Line: This joyful
+Eastertide Tune Title: VRUECHTEN Author: G. R. Woodward, 1848-1934 Meter: 67 67
+and refrain Scripture: 1 Corinthians 15:12-20; 1 Thessalonians 4:14-16; Acts
+2:24-26; Isaiah 35:10; Psalm 16 Date: 2000 Subject: Easter | ; Easter II | Year
+C; Easter III | Year A
+ 
+Common Praise #161
 TextPage Scan
 
-Common Praise (1998) #170
+Complete Anglican Hymns Old and New #680
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Maruice F. Bell (1862-1947) 
-Meter: LM Scripture: Exodus 34:27-35; Romans 16:25-27; 2 Corinthians 3:12 -
-4:2; 2 Kings 2:1-14; Joel 2:1-2; Matthew 4:1-11; Matthew 6:1-6; Matthew
-6:16-21; Mark 1:9-15; Luke 3:1-18; Luke 4:1-13 Date: 1998 Subject: Ash
-Wednesday | ; Lent (season) | Source: Latin (6th cent.)
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: THIS JOYFUL EASTERTIDE (VREUCHTEN) Author: George Ratcliffe Woodward,
+1848-1934 Meter: 67 67 and Refrain Scripture: 1 Corinthians 15:14; 1
+Corinthians 15:52; 1 Thessalonians 4:16; Joshua 3:14-17; Matthew 24:30-31;
+Psalm 4:8; Psalm 16:9 Date: 2000 Subject: Easter | ; Year A | Easter 2; Years
+A, B, and C | Easter Vigil
  
-Common Praise (1998) #170
-TextAudioPage Scan
+Complete Anglican Hymns Old and New #680
+Text
 
-Evangelical Lutheran Worship #320
+Evangelical Lutheran Worship #391
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Maurice F. Bell, 1862-1947 
-Meter: L M Date: 2006 Subject: Lent | Source: Latin Hymn, 11th Cent.
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6 7 6 7 and
+refrain Date: 2006 Subject: Funeral | ; Easter |
  
-Evangelical Lutheran Worship #320
-
-Gather (3rd ed.) #481
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS HERR Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1852-1947 Meter: LM Scripture: Exodus 19:20; 2 Kings 2:11;
-Daniel 6:1 - 7:28; Matthew 4:1-2; Mark 1:12-13; Luke 4:1-2 Date: 2011 Subject:
-Ash Wednesday | ; Lenten Season | ; Transfiguration of the Lord (August 6) | ;
-Fasting | ; Grace | ; Jesus Christ | ; Petition/Prayer | ; Strength |
- 
-Gather (3rd ed.) #481
+Evangelical Lutheran Worship #391
 TextPage Scan
 
-Gather Comprehensive #388
+Gather Comprehensive #434
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: OLD HUNDREDTH Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Scripture: Matthew 1:12-13; Matthew
-17:1-9; Mark 1:1-4; Mark 9:2-10; Luke 9:29-36 Date: 1994 Subject: Seasons and
-Feasts | Ash Wednesday; Fasting |
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6 7 6 7 D 
+Scripture: 1 Corinthians 15:14-19 Date: 1994
  
-Gather Comprehensive #388
-
-Gather Comprehensive, Second Edition #397
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: OLD HUNDREDTH Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Date: 2004 Subject: Ash Wednesday | ;
-Fasting |
- 
-Gather Comprehensive, Second Edition #397
-TextPage Scan
-
-Glory and Praise (3rd. ed.) #273
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: St. Gregory the Great, ca.
-540-604; Maurice F. Bell, 1862-1947 Meter: LM Scripture: Exodus 19:20;
-Deuteronomy 9:8-21; 2 Kings 2:11; Daniel 1; Daniel 6:16; Matthew 3:4; Matthew
-12:12-13; Mark 2:18-22; John 13:1-20; John 15:14-15; 2 Corinthians 4:6; Hebrews
-12:2 Date: 2015 Subject: The Liturgical Year | Ash Wednesday; The Liturgical
-Year | Lent (Sundays and Weekdays) Source: Tr.: English Hymnal, 1906
- 
-Glory and Praise (3rd. ed.) #273
+Gather Comprehensive #434
 Text InfoTextFlexscoreAudioPage Scan
 
-Glory to God #165
+Glory to God #244
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Gregory the Great; Maurice F.
-Bell Meter: LM Scripture: Exodus 19:20; 2 Kings 2:11; Daniel 6; Matthew 3:1-3;
-Matthew 17:1-9; Mark 1:1-4; Mark 9:2-10; Luke 9:28-36 Date: 2013 Subject:
-Christian Year | Baptism of Jesus; Christian Year | Transfiguration; Grace | ;
-Jesus Christ | Life
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George Ratcliffe Woodward Meter: 6.7.6.7 with refrain 
+Scripture: Job 19:25-27; Matthew 28:1-10; Mark 16:1-8; Luke 24:1-12; John
+10:1-8; Romans 6:1-11; Romans 8:37-39; 1 Corinthians 15; 1 Thessalonians
+4:13-18; Revelation 14:13 Date: 2013 Subject: Christian Year | Easter Vigil;
+Christian Year | Resurrection/Easter; Jesus Christ | Resurrection; Christian
+Year | Easter
  
-Glory to God #165
+Glory to God #244
 TextPage Scan
 
-Hymnal 1982 #143
+Hymnal 1982 #192
 
-Display Title: The glory of these forty days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Maruice F. Bell, 1862-1947 
-Meter: LM Date: 1985 Source: Latin, 6th cent.
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECTEN Author: George R. Woodward. 1848-1934 Meter: 67. 67 with
+Refrain Date: 1985
  
-Hymnal 1982 #143
-
-Hymnal #225
-
-Display Title: The glory of these forty days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Maurice F. Bell Date: 1992 
-Source: Clarum decus jejunii, 11th c.; The English Hymnal, 1906
- 
-Hymnal #225
-Page Scan
-
-Journeysongs (2nd ed.) #379
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: St. Gregory the Great, ca.
-540-604; Maurice F. Bell, 1862-1947 Meter: LM Scripture: Exodus 19:20;
-Deuteronomy 9:8-21; 2 Kings 2:11 Date: 2003 Source: Tr.: the English Hymnal,
-1906
- 
-Journeysongs (2nd ed.) #379
-Page Scan
-
-Journeysongs (3rd ed.) #347
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: St. Gregory the Great, ca.
-540-604; Maurice F. Bell, 1862-1947 Meter: LM Scripture: 2 Kings 2:11; Daniel
-1; Daniel 6:16; Deuteronomy 9:8-21; Exodus 19:20; Mark 2:18-22; Matthew 3:4;
-Matthew 6:25-34; Matthew 12:12-13; John 13:1-20; John 15:14-15; 2 Corinthians
-4:6; Hebrews 12:2 Date: 2012 Subject: The Liturgical Year | Ash Wednesday; The
-Liturgical Year | Lent (Sundays and Weekdays) Source: Tr.: English Hymnal, 1906
- 
-Journeysongs (3rd ed.) #347
+Hymnal 1982 #192
 TextPage Scan
 
-Lead Me, Guide Me (2nd ed.) #284
+Hymnal Supplement 1991 #747
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: OLD HUNDREDTH Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Scripture: 2 Kings 2:11; Exodus 19:20;
-Daniel 6:1 - 7:28; Matthew 4:1-2; Mark 1:12-13; Luke 4:1-2 Date: 2012 Subject:
-Ash Wednesday | ; Lenten Season | ; Transfiguration of the Lord | August 6th;
-Fasting | ; Grace | ; Jesus Christ | ; Petition, Prayer | ; Strength |
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George Woodward, 1848-1934 Meter: 67 67 with refrain 
+Scripture: 1 Corinthians 15:52; 1 Peter 3:18-19 Date: 1991 Subject: Easter
+Season |
  
-Lead Me, Guide Me (2nd ed.) #284
-TextPage Scan
+Hymnal Supplement 1991 #747
 
-One in Faith #429
+Hymnal Supplement II #69
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: OLD HUNDREDTH Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Date: 2015 Subject: Lent |
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide, away
+with sin and sorrow Tune Title: VRUECHTEN Date: 1987
  
-One in Faith #429
+Hymnal Supplement II #69
 
-Oramos Cantando = We Pray In Song #407
+Hymnal #276
 
-Display Title: The Glory of These Forty Days (Estos Cuarenta Días Hoy) First
-Line: The glory of these forty days (Estos cuarenta días hoy) Tune Title:
-ERHALT UNS HERR Author: St. Gregory the Great, c. 540-604; Maurice F. Bell,
-1862-1947; Victor Jortack Meter: LM Scripture: 2 Kings 2:11; Daniel 6:1 - 7:28;
-Matthew 4:1-2; Mark 1:12-13; Luke 4:1-2 Date: 2013 Subject: Ash Wenesday | ;
-Miércoles de Ceniza | ; Lenten Season | ; Tiempo de Cuaresma | ; Ayuno | ;
-Fasting | ; Fortaleza | ; Strength | ; Grace | ; Gracia | ; Jesucristo | ;
-Jesus Christ | ; Petition/Prayer | ; Súplica/Oración |
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward Date: 1992 Source: Carols for
+Easter and Ascension, 1894
  
-Oramos Cantando = We Pray In Song #407
-TextPage Scan
+Hymnal #276
 
-Rejoice in the Lord #242
+Hymns and Psalms #213
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT'UNS, HERR Author: M. F. Bell; Gregory the Great 
-Meter: LM Scripture: Matthew 4:1-11; Daniel 6:16-28; Exodus 20:21; 2 Kings
-2:11; Mark 1:12-13; Luke 4:1-13; John 3:29 Date: 1985 Subject: Biblical
-Characters | Daniel; Biblical Characters | Elijah; Biblical Characters | John;
-Biblical Characters | Moses; Fasting |
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN (EASTER-TIDE) Author: F. Pratt Green Date: 1983
  
-Rejoice in the Lord #242
+Hymns and Psalms #213
 
-RitualSong (2nd ed.) #570
+Hymns for Today's Church (2nd ed.) #165
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS HERR Author: Gregory the Great, c.540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Date: 2016 Subject: Lent |
+Display Title: Had Christ, who once was slain First Line: This joyful
+Eastertide Tune Title: VRUECHTEN Author: G. R. Woodward (1848-1934) Meter: 6 7
+6 7 D Scripture: 1 Corinthians 15:17-20 Date: 1987 Subject: God, Saviour |
+Risen and Victorious; Easter | The Resurrection of Christ; Easter 3 | The
+Resurrection and the Life
  
-RitualSong (2nd ed.) #570
-
-RitualSong #545
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS HERR Author: Maurice F. Bell, 1862-1947;
-Gregory the Great, c.540-604 Meter: LM Date: 1996 Subject: Lent |
- 
-RitualSong #545
-TextScoreAudio
-
-The Cyber Hymnal #1858
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: SPIRES Author: Gregory I; Maurice F. Bell Meter: LM 
-Source: The English Hymnal (London: Oxford University Press, 1906), number 68
- 
-The Cyber Hymnal #1858
-TextPage Scan
-
-The Presbyterian Hymnal #87
-
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Gregory the Great; Maurice F.
-Bell Meter: LM Date: 1990
- 
-The Presbyterian Hymnal #87
+Hymns for Today's Church (2nd ed.) #165
 Text
 
-With One Voice #657
+Hymns of Glory, Songs of Praise #415
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS, HERR Author: Maurice F. Bell, 1862-1947 
-Meter: L M Scripture: Luke 4:1-13; Mark 1:12-13; Matthew 4:1-11; Daniel 1;
-Deuteronomy 9:8-21; Daniel 6 Date: 1995 Subject: Lent | Source: Latin hymn,
-11th century
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George Ratcliffe Woodward (1848-1934) Meter: 6767 and
+refrain Scripture: 1 Corinthians 15:12-20; 1 Corinthians 15:24-26; 1
+Corinthians 15:51-52; 1 Thessalonians 4:16; Acts 2:24; John 20:10-18; Matthew
+24:30-31; Psalm 16:9-11 Date: 2008 Subject: Life in Christ | Christ Risen -
+Resurrection and Exaltation; Christian Year | Easter
  
-With One Voice #657
+Hymns of Glory, Songs of Praise #415
+
+Hymns Old and New #509
+
+Display Title: This joyful Eastertide First Line: This joyful Eastertide Meter:
+67 67 Ref Date: 1996
+ 
+Hymns Old and New #509
+TextPage Scan
+
+Hymns to the Living God #175
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VREUCHTEN Author: George Ratcliffe Woodward Meter: 6.7.6.7.Ref. Date:
+2017 Subject: Jesus Christ | Resurrection and Exaltation
+ 
+Hymns to the Living God #175
+
+Journeysongs (2nd ed.) #445
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VREUCHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 with
+refrain Date: 2003
+ 
+Journeysongs (2nd ed.) #445
 Text
 
-Worship (3rd ed.) #422
+Journeysongs (3rd ed.) #414
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS HERR Author: Gregory the Great, c. 540-604;
-Maurice F. Bell, 1862-1947 Meter: LM Scripture: Exodus 19:20; 2 Kings 2:11;
-Daniel 6:7; Matthew 1:12-13; Matthew 3:4; Matthew 17:1-9; Mark 1:1-4; Mark
-9:2-10; Luke 9:28-39 Date: 1986 Subject: Ash Wednesday | ; Lenten Season | ;
-Transfiguration (August 6) | ; Fasting | ; Grace | ; Jesus Christ | ; Petition
-| ; Redemption |
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VREUCHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 with
+refrain Scripture: 1 Corinthians 15:12-20; 1 Corinthians 15:51-52 Date: 2012 
+Subject: The Liturgical Year | Easter (Sundays and Weekdays)
  
-Worship (3rd ed.) #422
+Journeysongs (3rd ed.) #414
+TextFlexscoreAudio
 
-Worship (4th ed.) #467
+Lift Up Your Hearts #202
 
-Display Title: The Glory of These Forty Days First Line: The glory of these
-forty days Tune Title: ERHALT UNS HERR Author: Maurice F. Bell, 1862-1947;
-Gregory the Great, c. 540-604 Meter: LM Date: 2011 Subject: Lent | ; Lent II |
-A; Lent II | B; Lent II | C
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward Meter: 6.7.6.7 refrain 6.7.6.7.6.7 
+Scripture: 1 Corinthians 15:14; 1 Corinthians 14:20; 1 Corinthians 15:51-52 
+Date: 2013 Subject: Church Year | Easter/Season of Easter; Occasional Services
+| Funeral/Witness to the Resurrection
  
-Worship (4th ed.) #467
-Include 5 pre-1979 instances
+Lift Up Your Hearts #202
+TextPage Scan
+
+Lutheran Service Book #482
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VREUCHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 and refrain
+Scripture: 1 Corinthians 15:17-20; 1 Corinthians 15:51-52; Revelation 14:13 
+Date: 2006
+ 
+Lutheran Service Book #482
+
+Lutheran Worship #140
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 and refrain
+Date: 1982 Subject: Easter |
+ 
+Lutheran Worship #140
+TextPage Scan
+
+One in Faith #479
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 with
+Refrain Date: 2015 Subject: Easter |
+ 
+One in Faith #479
+Text InfoTune InfoTextScoreAudio
+
+Psalter Hymnal (Gray) #403
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUCHTEN Author: George R. Woodward Meter: 67 67 with refrain Scripture:
+1 Corinthians 15 Date: 1987 Subject: Funerals | ; Easter | ; Freedom | ; New
+Creation | ; Opening of Worship |
+ 
+Psalter Hymnal (Gray) #403
+Page Scan
+
+Rejoice in the Lord #328
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUCHTEN Author: G. R. Woodward Meter: 6.7.6.7 D Scripture: 1
+Corinthians 15:51-52 Date: 1985
+ 
+Rejoice in the Lord #328
+Page Scan
+
+RitualSong (2nd ed.) #606
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6 7 6 7 with
+refrain Date: 2016
+ 
+RitualSong (2nd ed.) #606
+
+RitualSong #598
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6 7 6 7 D 
+Scripture: 1 Corinthians 15:14-19 Date: 1996 Subject: Death | ; Eternal Life |
+; Funeral | ; Hope | ; Paschal Mystery |
+ 
+RitualSong #598
+
+Sampler #707
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 and refrain
+Date: 1986 Subject: Easter |
+ 
+Sampler #707
+
+The Covenant Hymnal #250
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6.7.6.7. with
+refrain Scripture: 1 Corinthians 15:12-20; 1 Thessalonians 4:13-18 Date: 1996 
+Subject: Easter | Resurrection; Liberation | ; Victory in Conflict |
+ 
+The Covenant Hymnal #250
+TextScore
+
+The Cyber Hymnal #6650
+
+Display Title: This Joyful Easter-Tide First Line: This joyful Easter-tide Tune
+Title: EASTER-TIDE Author: George R. Woodward Source: Carols for Easter and
+Ascensiontide, 1894
+ 
+The Cyber Hymnal #6650
+TextPage Scan
+
+The New Century Hymnal #232
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide, away
+with sin and sorrow! Tune Title: VRUECHTEN Author: George R. Woodward Meter:
+6.7.6.7.D. Date: 1995 Subject: Easter |
+ 
+The New Century Hymnal #232
+TextPage Scan
+
+The New English Hymnal #121
+
+Display Title: Had Christ, that once was slain First Line: This joyful
+Eastertide Tune Title: THIS JOYFUL EASTERTIDE Author: G. R. Woodward, 1848-1934
+Meter: 67 67 and refrain Date: 1986 Subject: The Christian Year | Eastertide
+ 
+The New English Hymnal #121
+Text
+
+The Song Book of the Salvation Army #153
+
+Display Title: Had Christ, that once was slain First Line: This joyful
+Eastertide Author: George Ratcliffe Woodward (1848-1934) Date: 1986 Subject:
+The Lord Jesus Christ | Resurrection and ascension
+ 
+The Song Book of the Salvation Army #153
+Text
+
+Together in Song #381
+
+Display Title: had Christ, that once was slain First Line: This joyful
+Eastertide Tune Title: VRUECHTEN Author: George Ratcliffe Woodward, 1848-1934 
+Meter: 67.67 D Scripture: 1 Corinthians 15:12-19; 1 Corinthians 15:51-54 Date:
+1999 Subject: Celebration of Faith | ; Hope | ; Jesus Christ | Resurrection;
+Resurrection |
+ 
+Together in Song #381
+TextFlexscorePage Scan
+
+Trinity Hymnal (Rev. ed.) #284
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUCHTEN Author: George R. Woodward Meter: 6.7.6.7.ref. Scripture: Job
+19:25-27; 1 Corinthians 15:14; 1 Thessalonians 4:13-18 Date: 1990 Subject:
+Deliverance | ; Resurrection of Believers |
+ 
+Trinity Hymnal (Rev. ed.) #284
+Text
+
+Voices United #177
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward Meter: 6 7 6 7 with refrain Date:
+1996 Subject: The Christian Year | Easter; Choruses and Refrains | ; Christian
+Year | Easter; Jesus Christ | Ascension and Reign; Jesus Christ | Resurrection;
+Joy | ; Sin | ; Easter 2 | Year A; Easter 2 | Year B; Easter Evening | Year ABC
+ 
+Voices United #177
+TextPage Scan
+
+With One Voice #676
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VREUCHTEN Author: George Woodward, 1848-1934 Meter: 6 7 6 7 and refrain 
+Scripture: 1 Corinthians 15:12-20; Romans 6:1-11 Date: 1995 Subject: Christian
+Hope | ; Easter |
+ 
+With One Voice #676
+TextPage Scan
+
+Worship (3rd ed.) #449
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1818-1934 Meter: 6 7 6 7 D 
+Scripture: 1 Corinthians 15:14-19 Date: 1986 Subject: Easter Vigil | ; Easter |
+; Easter Season | ; Paschal Mystery |
+ 
+Worship (3rd ed.) #449
+
+Worship (4th ed.) #502
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1818-1934 Meter: 6 7 6 7 D with
+refrain Date: 2011 Subject: Easter |
+ 
+Worship (4th ed.) #502
+TextScoreAudioPage Scan
+
+Worship and Rejoice #308
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 6.7.6.7.Ref. 
+Scripture: 1 Corinthians 15:12-20; Romans 8:37-39; 1 Corinthians 15:50-58 Date:
+2008
+ 
+Worship and Rejoice #308
+TextAudio
+
+Worship in Song #117
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George Ratcliffe Woodward Date: 1996 Subject: Easter |
+; Faith | ; Story of Jesus | ; Joy | ; Resurrection | ; Sin | Source: Carols
+for Ascension and Easter, 1894
+ 
+Worship in Song #117
+Text
+
+Worship Supplement 2000 #733
+
+Display Title: This Joyful Eastertide First Line: This joyful Eastertide Tune
+Title: VRUECHTEN Author: George R. Woodward, 1848-1934 Meter: 67 67 with
+Refrain Date: 2007 Subject: Easter |
+ 
+Worship Supplement 2000 #733
+Include 14 pre-1979 instances
 All instances^ top
 Suggestions or corrections? Contact us
 
