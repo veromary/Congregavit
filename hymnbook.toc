@@ -1,10 +1,10 @@
 \babel@toc {latin}{}
 \babel@toc {british}{}
-\contentsline {chapter}{\chapternumberline {1}Epistles and Gospels for Sundays and Holy Days}{5}%
-\contentsline {section}{Proper of the Season}{5}%
-\contentsline {section}{Proper of the Saints}{52}%
-\contentsline {chapter}{\chapternumberline {2}The Holy Sacrifice of the Mass}{81}%
-\contentsline {section}{Mass of the Catechumens}{81}%
+\contentsline {chapter}{\chapternumberline {1}Epistles and Gospels for Sundays and Holy Days}{5}% 
+\contentsline {section}{Proper of the Season}{5}% 
+\contentsline {section}{Proper of the Saints}{52}% 
+\contentsline {chapter}{\chapternumberline {2}The Holy Sacrifice of the Mass}{81}% 
+\contentsline {section}{Mass of the Catechumens}{82}% 
 \babel@toc {latin}{}
 \babel@toc {british}{}
 \babel@toc {latin}{}
@@ -293,7 +293,7 @@
 \babel@toc {british}{}
 \babel@toc {latin}{}
 \babel@toc {british}{}
-\contentsline {section}{Mass of the Faithful}{89}%
+\contentsline {section}{Mass of the Faithful}{89}% 
 \babel@toc {latin}{}
 \babel@toc {british}{}
 \babel@toc {latin}{}
@@ -714,55 +714,55 @@
 \babel@toc {british}{}
 \babel@toc {latin}{}
 \babel@toc {british}{}
-\contentsline {section}{Prayers after Low Mass}{104}%
-\contentsline {chapter}{\chapternumberline {3}Kyriale}{106}%
-\contentsline {section}{I. In Paschal Time.}{107}%
-\contentsline {section}{II. For feasts of the I class.}{110}%
-\contentsline {section}{IV. For feasts of the II class.}{112}%
-\contentsline {section}{VII. For feasts of the II class.}{114}%
-\contentsline {section}{VIII. For feasts of the II class.}{117}%
-\contentsline {section}{IX. For feasts of the Blessed Virgin.}{119}%
-\contentsline {section}{X. For feasts of the Blessed Virgin.}{121}%
-\contentsline {section}{XI. For Sundays throughout the Year.}{123}%
-\contentsline {section}{XII. For feasts of the III class.}{125}%
-\contentsline {section}{XIII. For feasts of the III class.}{127}%
-\contentsline {section}{XVI. For ferias throughout the Year.}{129}%
-\contentsline {section}{XVII. For the Sundays of Advent and Lent.}{130}%
-\contentsline {section}{XVIII. For the ferias of Advent and Lent.}{131}%
-\contentsline {section}{Credo I}{132}%
-\contentsline {section}{Credo II}{133}%
-\contentsline {section}{Credo III}{135}%
-\contentsline {section}{Credo IV}{137}%
-\contentsline {section}{Credo V}{139}%
-\contentsline {section}{Credo VI}{140}%
-\contentsline {chapter}{\chapternumberline {4}Hymns for the Church's Year}{144}%
-\contentsline {section}{Advent}{144}%
-\contentsline {section}{Christmas}{151}%
-\contentsline {section}{Lent}{167}%
-\contentsline {section}{Easter}{187}%
-\contentsline {section}{Pentecost}{196}%
-\contentsline {section}{Corpus Christi}{212}%
-\contentsline {section}{Sacred Heart}{223}%
-\contentsline {section}{Christ the King}{225}%
-\contentsline {chapter}{\chapternumberline {5}Hymns for the Saints}{228}%
-\contentsline {section}{Our Lady}{228}%
-\contentsline {section}{Saints' Days}{256}%
-\contentsline {section}{Holy Souls}{265}%
-\contentsline {chapter}{\chapternumberline {6}Hymns for Mass}{272}%
-\contentsline {section}{Processional/Recessional}{272}%
-\contentsline {section}{Offertory}{304}%
-\contentsline {section}{Communion}{308}%
-\contentsline {chapter}{\chapternumberline {7}Prayers}{242}%
-\contentsline {section}{Litany of the Saints}{242}%
+\contentsline {section}{Prayers after Low Mass}{104}% 
+\contentsline {chapter}{\chapternumberline {3}Kyriale}{106}% 
+\contentsline {section}{I. In Paschal Time.}{107}% 
+\contentsline {section}{II. For feasts of the I class.}{110}% 
+\contentsline {section}{IV. For feasts of the II class.}{112}% 
+\contentsline {section}{VII. For feasts of the II class.}{114}% 
+\contentsline {section}{VIII. For feasts of the II class.}{117}% 
+\contentsline {section}{IX. For feasts of the Blessed Virgin.}{119}% 
+\contentsline {section}{X. For feasts of the Blessed Virgin.}{121}% 
+\contentsline {section}{XI. For Sundays throughout the Year.}{123}% 
+\contentsline {section}{XII. For feasts of the III class.}{125}% 
+\contentsline {section}{XIII. For feasts of the III class.}{127}% 
+\contentsline {section}{XVI. For ferias throughout the Year.}{129}% 
+\contentsline {section}{XVII. For the Sundays of Advent and Lent.}{130}% 
+\contentsline {section}{XVIII. For the ferias of Advent and Lent.}{131}% 
+\contentsline {section}{Credo I}{132}% 
+\contentsline {section}{Credo II}{133}% 
+\contentsline {section}{Credo III}{135}% 
+\contentsline {section}{Credo IV}{137}% 
+\contentsline {section}{Credo V}{139}% 
+\contentsline {section}{Credo VI}{140}% 
+\contentsline {chapter}{\chapternumberline {4}Hymns for the Church's Year}{144}% 
+\contentsline {section}{Advent}{144}% 
+\contentsline {section}{Christmas}{152}% 
+\contentsline {section}{Lent}{169}% 
+\contentsline {section}{Easter}{187}% 
+\contentsline {section}{Pentecost}{196}% 
+\contentsline {section}{Corpus Christi}{202}% 
+\contentsline {section}{Sacred Heart}{210}% 
+\contentsline {section}{Christ the King}{213}% 
+\contentsline {chapter}{\chapternumberline {5}Hymns for the Saints}{216}% 
+\contentsline {section}{Our Lady}{216}% 
+\contentsline {section}{Saints' Days}{239}% 
+\contentsline {section}{Holy Souls}{249}% 
+\contentsline {chapter}{\chapternumberline {6}Hymns for Mass}{257}% 
+\contentsline {section}{Processional/Recessional}{257}% 
+\contentsline {section}{Offertory}{280}% 
+\contentsline {section}{Communion}{283}% 
+\contentsline {chapter}{\chapternumberline {7}Prayers}{242}% 
+\contentsline {section}{Litany of the Saints}{242}% 
 \babel@toc {latin}{}
 \babel@toc {british}{}
-\contentsline {section}{Litany of the Holy Name of Jesus}{249}%
-\contentsline {section}{Indulgenced prayers to the Sacred Heart}{251}%
-\contentsline {section}{Litany of the Sacred Heart of Jesus}{254}%
-\contentsline {section}{Litany of the Precious Blood of Jesus}{258}%
-\contentsline {section}{Litany of the Blessed Virgin Mary}{259}%
-\contentsline {section}{Litany of St.~Joseph}{262}%
-\contentsline {chapter}{\chapternumberline {8}Benediction of the Blessed Sacrament}{264}%
+\contentsline {section}{Litany of the Holy Name of Jesus}{249}% 
+\contentsline {section}{Indulgenced prayers to the Sacred Heart}{251}% 
+\contentsline {section}{Litany of the Sacred Heart of Jesus}{254}% 
+\contentsline {section}{Litany of the Precious Blood of Jesus}{258}% 
+\contentsline {section}{Litany of the Blessed Virgin Mary}{259}% 
+\contentsline {section}{Litany of St.~Joseph}{262}% 
+\contentsline {chapter}{\chapternumberline {8}Benediction of the Blessed Sacrament}{264}% 
 \babel@toc {latin}{}
 \babel@toc {british}{}
 \babel@toc {latin}{}
@@ -807,4 +807,5 @@
 \babel@toc {british}{}
 \babel@toc {latin}{}
 \babel@toc {british}{}
-\contentsline {chapter}{Index}{271}%
+\contentsline {chapter}{Index}{289}% 
+\contentsline {chapter}{Index}{294}% 
