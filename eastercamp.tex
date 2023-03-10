@@ -1,4 +1,4 @@
-\documentclass[a5paper,11pt,twoside,openany]{memoir}
+\documentclass[ebook,11pt,twoside,openany]{memoir}
 \usepackage[british,latin]{babel}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
@@ -24,7 +24,8 @@
 \setlength{\trimtop}{0pt}
 \setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
-\settypeblocksize{170mm}{106mm}{*} % Was 101mm in a5
+%\settypeblocksize{170mm}{106mm}{*} % Was 101mm in a5
+\settypeblocksize{190mm}{106mm}{*} % Was 101mm in a5
 \setulmargins{*}{*}{1.4}
 \setlrmargins{*}{*}{1.6}
 \setheadfoot{\onelineskip}{2\onelineskip}
@@ -79,7 +80,6 @@
   \let\item\myidxitem}%
 {\par\relax}
 
-%\includeonly{}
 
 \def\tabmark{}
 
@@ -177,7 +177,7 @@
 \bigskip
 
 %MMXVII
-MMXXII
+MMXXIII
 
 \vskip6em
 
@@ -205,22 +205,6 @@ MMXXII
 \pagestyle{headings}
 
 \include{easterservermass}
-
-\def\tabmark{Kyriale}
-
-
-%\newcommand\kyrialeheading[3]{\section[#1. #2]{#1\\ \textnormal{\normalsize #2} \\ \textnormal{\normalsize\emph{#3}}}}
-\newcommand\kyrialeheading[3]{\section[#1. #2]{\Large \textbf{#1.} --- \textnormal{#2} \def\missaname{#3} \if*\missaname \else \\ \textnormal{\normalsize\emph{#3}}\fi}}
-
-\newcommand\includechant[2]{
-%\gresetfirstlineaboveinitial{#1}{#1}
-\gregorioscore{kyriale/#2.tex}
-%\gresetfirstlineaboveinitial{}{}
-}
-\def\gretranslationformat#1{%
-{\normalsize\selectfont #1}%
-}
-
 
 
 \def\tabmark{Seasonal Hymns}
