@@ -1,4 +1,4 @@
-\documentclass[ebook,11pt,twoside,openany]{memoir}
+\documentclass[a5paper,11pt,twoside,openany]{memoir}
 \usepackage[british,latin]{babel}
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
@@ -25,9 +25,9 @@
 \setlength{\trimedge}{0pt}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{170mm}{106mm}{*} % Was 101mm in a5
-\settypeblocksize{190mm}{106mm}{*} % Was 101mm in a5
-\setulmargins{*}{*}{1.4}
-\setlrmargins{*}{*}{1.6}
+\settypeblocksize{180mm}{106mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.2}
+\setlrmargins{*}{*}{1.5}
 \setheadfoot{\onelineskip}{2\onelineskip}
 \setheaderspaces{*}{.8\onelineskip}{*}
 \checkandfixthelayout
@@ -224,8 +224,8 @@ MMXXIII
 \input campchristking
 
 
-\def\tabmark{Saints' Hymns}
-\chapter{Hymns for the Saints}
+\def\tabmark{Marian Hymns}
+\chapter{Hymns for Mary}
 
 
 \input campourlady
@@ -242,7 +242,7 @@ MMXXIII
 
 %\include{confession}
 
-\include{benediction}
+\include{campbenediction}
 
 \makeoddhead{plain}{}{}{}
 \makeoddhead{headings}{}{\scshape\rightmark}{\thepage}
