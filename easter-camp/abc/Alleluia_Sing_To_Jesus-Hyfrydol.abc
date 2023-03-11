@@ -1,0 +1,130 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% This file is a part of the Open Hymnal Project to create a freely 
+% distributable, downloadable database of Christian hymns, spiritual 
+% songs, and prelude/postlude music.  This music is to be distributed 
+% as complete scores (words and music), using all accompaniment parts, 
+% in formats that are easily accessible on most computer OS's and which
+% can be freely modified by anyone.  The current format of choice is the 
+% "ABC Plus" format, favored by folk music distributors on the internet.
+% All scores will also be converted into pdf, MIDI, and mp3 formats.
+% Some advanced features of ABC Plus are used, and for accurate 
+% translation to a printed score, please consider using "abcm2ps" 
+% version 4.10 or later.  I am doing my best to create a final product
+% that is "Hymnal-quality", and could feasibly be used as the basis for
+% a printed church hymnal.
+%
+% The maintainer of the Open Hymnal Project is Brian J. Dumont (brian 
+% dot j dot dumont at gmail dot com).  I have gone through serious efforts 
+% to make sure that no copyright mistakes make it into this database.
+% If I am in error, please inform me as soon as possible.
+%
+% This entire effort has used only free software, and I am indebted to 
+% the efforts of many other individuals, including the authors of
+% the various ABC and ABC Plus software.  Undoubtedly, I am also indebted 
+% to all of the great Christians who wrote these hymns.
+%
+% This database comes with no guarantees whatsoever.
+%
+% I would love to get email from anyone who uses the Open Hymnal, and
+% I will take requests for hymns to add.  My decision of whether to 
+% add a hymn will be based on these criteria (in the following order):
+% 1) It must be in the public domain or freely distributable
+% 2) It must be a Christian piece
+% 3) Whether I have access to a printed copy of the music (surprisingly,
+%    a MIDI file is usually a terrible source)
+% 4) Whether I like the hymn :)
+%
+% If you would like to contribute to the Open Hymnal Project, please 
+% send an email to me, I would love the help!  PLEASE EMAIL ME IF YOU 
+% FIND ANY MISTAKES, no matter how small.  I want to ensure that every 
+% slur, stem, hyphenation, and punctuation mark is correct; and I'm sure 
+% that there must be mistakes right now.
+%
+% Open Hymnal Project, 2005 Edition
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% PAGE LAYOUT
+%
+%%pagewidth	21.6000cm
+%%pageheight	27.9000cm
+%%scale		0.740000
+%%staffsep	1.60000cm
+%%exprabove	false
+%%measurebox	false
+%OHSCRIP Is 66:1, Rom 15:9, Jas 5:13, Rev 14:2-3
+%OHTOPICS {Atonement [1,3]}, {Blood [1]}, {Bread (of Life/Daily Bread) [3]}, {Cloud [2]}, {Easter}, {Friendship [2,3]}, {God, As King [1,4]}, {God, Faithfulness of [1,2,3]}, {God, Love of}, {Gospel}, {Gratitude}, {Jesus}, {Lord's Supper [3,4]}, {Praise, Son}, {Priest/Priestly Roles [4]}, {Promises (see also Gospel) [1,2,3]}, {Sacrifice [1,4]}, {Salvation}, {Sinners [1,3]}, {Solitude (with God even when alone) [2]}, {Throne (also see God - As King) [1,4]}, {Victory [1,4]}, {Worship}
+%OHCATEGORY REDEEMER
+%OHMETRICAL 8 7 8 7 8 7 8 7
+%OHCOMPLEXITY 3
+%OHCOMPOSER Prichard, Rowland H. (1811-1887)
+%OHARRANGER unknown
+%OHAUTHOR Dix, William Chatterton (1837-1865)
+%OHTRANSLATOR none
+%%postscript /st { moveto -8 0 rmoveto 0 8 rlineto 4 0 rlineto stroke } def
+%%postscript /nd { moveto -8 0 rmoveto 0 8 rlineto -4 0 rlineto stroke } def
+%%deco sintro 6 st 6 0 0 
+%%deco eintro 6 nd 6 0 0 
+
+X: 1
+T: Alleluia, Sing To Jesus!
+C: Words: William Chatterton Dix, 1867. 
+C: Music: 'HyFrydol' Rowland H. Prichard, 1830.  Setting: "The English Hymnal", 1906.
+C: copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.
+S: Music source: 'The English Hymnal' 1906, Hymn 563. Arrangement - NOT PRICHARD per English hymnal, 1906  assume RV Williams
+M: 3/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: F % key signature
+%
+%%MIDI program 1 0 % Piano 1
+%%MIDI program 2 0 % Piano 1
+%%MIDI program 3 0 % Piano 1
+%%MIDI program 4 0 % Piano 1
+%
+% 1
+[V: S1V1] [Q:1/4=130] F2 G | (F3/2 G/) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 |
+w: 1.~Al- le- lu- * ia! sing to Je- * sus! His the scep- ter, His * the throne. 
+w: 2.~Al- le- lu- * ia! not as or- * phans are we left in sor- * row now; 
+w: 3.~Al- le- lu- * ia! bread of an- * gels, Thou on earth our food, * our stay; 
+w: 4.~Al- le- lu- * ia! King e- ter- * nal, Thee the Lord of lords * we own; 
+[V: S1V2]  C2 E | F2 F | G2 F | (E D) E | (F C) D/E/ | F2 F/E/ | (D D) E | F3 |
+[V: S2V1]  [F,2A,2] G, | (A,3/2 B,/) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3 |
+[V: S2V2]  (F,, A,,) C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 |
+% 9
+[V: S1V1]  F2 G | (F3/2 G/) A | B2 A | (G F) G | c2 B | A2 A | (G F) G | F3 |
+w: Al- le- lu- * ia! His the tri- * umph, His the vic- to- ry * a- lone. 
+w: Al- le- lu- * ia! He is near * us, faith be- lieves, nor ques- * tions how; 
+w: Al- le- lu- * ia! here the sin- * ful flee to Thee from day * to day: 
+w: Al- le- lu- * ia! born of Mar- * y, Earth Thy foot- stool, Hea- ven Thy throne: 
+[V: S1V2]  C2 E | F2 F | G2 F | (E D) E | (F C) D/E/ | F2 F/E/ | (D D) E | F3 |
+[V: S2V1]  [F,2A,2] G, | (A,3/2 B,/) C | (D C) C | (C A,) C | C2 C | C2 C | (B, A,) C | A,3 |
+[V: S2V2]  (F,, A,,) C, | F,2 F, | (F, E,) F, | (C, D,) C, | A,2 G, | F,2 A,, | (B,, D,) C, | F,3 |
+% 17
+[V: S1V1]  c2 c | (c B) A | B2 B | (B A) G | A2 A | (A B) c | (c B) A | G3 |
+w: Hark! the songs * of peace- ful Zi- * on thun- der like * a might- * y flood. 
+w: Though the cloud * from sight re- ceived * Him when the for- * ty days * were o'er 
+w: Int- er- ces- * sor, Friend of sin- * ners, Earth's Re- deem- * er, plead * for me, 
+w: Thou with- in * the veil hast en- * tered, robed in flesh * our great * High Priest; 
+[V: S1V2]  E2 E | F2 F | (F E) D | (E F) C | C2 F | (F G) A | (A G) F | (F2 E) |
+[V: S2V1]  C2 C | (F, G,) A, | G,2 G, | (G, C) B, | A,2 C | D2 C | D2 D | G,3 |
+[V: S2V2]  A,2 A, | D,2 D, | G,2 G, | (C, D,) E, | F,2 E, | D,2 A,, | G,,2 B,, | C,3 |
+% 25
+[V: S1V1]  (c A) c | (B G) B | (A F) A | (G/A/ B/A/) G | !sintro!c2 c | (d c) B | A2 G | F3 !eintro!|]
+w: Je- * sus out * of ev- * ery na- * * * tion has re- deemed * us by His blood. 
+w: Shall * our hearts * for- get * His pro- * * * mise, "I am with * you ev- er- more"? 
+w: Where * the songs * of all * the sin- * * * less sweep ac- ross * the crys- tal sea. 
+w: Thou * on earth * both priest * and vic- * * * tim in the Eu- * char- ist- ic feast. 
+[V: S1V2]  F2 A | G2 G | (F C) F | (G/E/ F) C | (C F) _E | (D F) F | F2 E | F3 |]
+[V: S2V1]  C2 D | D2 C | (C A,) =B, | (C _B,) B, | A,2 C | (B, C) D | C2 B, | [F,3A,3] |]
+[V: S2V2]  A,2 F, | (F, E,/D,/) E, | (F, E,) D, | (E,/C,/ D,) E, | F,2 A,, | (B,, A,,) B,, | C,2 C, | F,,3 |]
+% 34

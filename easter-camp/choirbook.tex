@@ -1,0 +1,43 @@
+\documentclass[a4paper,openany,12pt]{memoir}
+\usepackage{pdfpages}
+\usepackage[autocompile]{gregoriotex}
+\usepackage{libertine}
+
+\newcommand{\myincludepdf}[1]{\includepdf[pages=-,pagecommand={\thispagestyle{headings}},templatesize={18cm}{25cm}]{#1}}
+
+\begin{document}
+
+\myincludepdf{01-Alleluia-Sing-To-Jesus-Hyfrydol-F-Major.pdf}
+
+\input 02-ad-regias
+
+\myincludepdf{03-pbeh_at_the_lambs_high}
+
+\myincludepdf{04-Jesus-Christ-Is-Risen-Today}
+
+\input 05-o-filii
+
+
+\myincludepdf{AdoroTe-vocal.pdf}
+
+\input 09-adoro-te
+
+
+\myincludepdf{10-cropped-godhead.pdf}
+
+\input 11-anima
+
+\myincludepdf{12-Soul-choir.pdf}
+
+\myincludepdf{16-cropped-jesus.pdf}
+
+\myincludepdf{18-pbeh_let_all_mortal.pdf}
+
+\myincludepdf{27-crop-hail-holy-queen.pdf}
+
+\myincludepdf{30-pbeh_be_joyful_mary.pdf}
+
+\myincludepdf{37-crop-be-thou.pdf}
+
+\end{document}
+
