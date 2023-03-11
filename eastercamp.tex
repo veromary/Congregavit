@@ -21,18 +21,19 @@
 \usepackage{graphicx}
 \usepackage[autocompile]{gregoriotex}
 %\settrimmedsize{9in}{6in}{*}
-\setlength{\trimtop}{0pt}
-\setlength{\trimedge}{0pt}
+\settrimmedsize{209mm}{140mm}{*}
+\setlength{\trimtop}{1mm}
+\setlength{\trimedge}{8mm}
 %\addtolength{\trimedge}{-\paperwidth}
 %\settypeblocksize{170mm}{106mm}{*} % Was 101mm in a5
 \settypeblocksize{180mm}{106mm}{*} % Was 101mm in a5
-\setulmargins{*}{*}{1.2}
-\setlrmargins{*}{*}{1.5}
+\setulmargins{*}{*}{1}
+\setlrmargins{*}{*}{1.3}
 \setheadfoot{\onelineskip}{2\onelineskip}
 \setheaderspaces{*}{.8\onelineskip}{*}
 \checkandfixthelayout
 \usepackage{relsize}
-\usepackage{fancytabs}
+%\usepackage{fancytabs}
 \usepackage{metalogo}
 
 \input conf-hymns.tex
@@ -92,16 +93,19 @@
  \def\sectionmark##1{\markright{##1}}
 }
 
-\makeoddhead{plain}{\fancytab{%\textcolor{black}{
-                    \tabmark}{\thechapter}}{}{}
-\makeoddhead{headings}{\fancytab{%\textcolor{black}{
-                       \tabmark}{\thechapter}}{\scshape\rightmark}{\thepage}
+\makeoddhead{plain}{%\fancytab{%\textcolor{black}{\tabmark}{\thechapter}}
+	}{}{\thepage}
+\makeoddhead{headings}{%\fancytab{%\textcolor{black}{\tabmark}{\thechapter}}
+	}{\scshape\rightmark}{\thepage}
 \makeevenhead{headings}{\thepage}{\scshape\leftmark}{}
+\makeevenhead{plain}{\thepage}{}{}
+\makeoddfoot{plain}{}{}{}
+\makeevenfoot{plain}{}{}{}
 \pagestyle{headings}
 
-\fancytabsFloor{1}% to switch off tabs on the contents page
-\fancytabsCount{4}
-\fancytabsHeight{1.8in}
+%\fancytabsFloor{1}% to switch off tabs on the contents page
+%\fancytabsCount{4}
+%\fancytabsHeight{1.8in}
 %\fancytabsWidth{1.5cm} trying to get tabs to overlap the margin
 
 \pretitle{\bigskip \par \begin{center}\HUGE\vectis}
