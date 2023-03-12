@@ -1,9 +1,16 @@
-\documentclass[a4paper,openany,12pt]{memoir}
+\documentclass[a4paper,openany,14pt]{memoir}
 \usepackage{pdfpages}
 \usepackage[autocompile]{gregoriotex}
 \usepackage{libertine}
+\settypeblocksize{250mm}{160mm}{*} % Was 101mm in a5
+\setulmargins{2cm}{*}{*}
+\setlrmargins{2cm}{*}{1.3}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
 
-\newcommand{\myincludepdf}[1]{\includepdf[pages=-,pagecommand={\thispagestyle{headings}},templatesize={18cm}{25cm}]{#1}}
+\pagestyle{simple}
+\newcommand{\myincludepdf}[1]{\includepdf[pages=-,pagecommand={\thispagestyle{simple}},templatesize={18cm}{25cm}]{#1}}
 
 \begin{document}
 
@@ -17,6 +24,9 @@
 
 \input 05-o-filii
 
+\myincludepdf{06-O_sons_and_daughters_(cpdl).pdf}
+
+\input lapis.tex
 
 \myincludepdf{AdoroTe-vocal.pdf}
 
@@ -33,11 +43,15 @@
 
 \myincludepdf{18-pbeh_let_all_mortal.pdf}
 
-\myincludepdf{27-crop-hail-holy-queen.pdf}
+\myincludepdf{musescore/O_Bread_of_Heaven_Beneath_this_Veil_St_Catherine.pdf}
 
-\myincludepdf{30-pbeh_be_joyful_mary.pdf}
+\myincludepdf{mxl/be-joyful.pdf}
+
+\myincludepdf{31-Regina_Coeli_Jubila.pdf}
 
 \myincludepdf{37-crop-be-thou.pdf}
+
+\myincludepdf{41-crop-faith.pdf}
 
 \end{document}
 
