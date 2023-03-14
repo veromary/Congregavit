@@ -1,0 +1,131 @@
+\documentclass[a4paper,12pt]{memoir}
+%\includepackage[autocompile]{gregoriotex}
+\usepackage{fontspec}
+\setmainfont{Calluna}
+\usepackage[autocompile]{gregoriotex} % for gregorio score inclusion
+\usepackage{multicol}
+\usepackage{graphicx} % support the \includegraphics command and options
+\usepackage[pass-fonts=true,program=/usr/bin/lilypond]{lyluatex}
+\setlength{\trimtop}{0pt}
+\setlength{\trimedge}{0pt}
+\settypeblocksize{240mm}{150mm}{*} % Was 101mm in a5
+\setulmargins{*}{*}{1.2}
+\setlrmargins{*}{*}{1.2}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{.8\onelineskip}{*}
+\checkandfixthelayout
+
+\tolerance=1000
+\pretolerance=800
+
+
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+
+	\textsc{\huge Canons from Camp}
+
+
+\end{center}
+
+Tantum Ergo, 2017
+
+\begin{lilypond}
+wordsdefaultVA = \lyricmode {
+Tan -- tum  er -- go sa -- cra --  men -- tum ve -- ne -- re -- mur cer -- nu -- i 
+et an -- ti -- quum do -- cu -- men -- tum no -- vo ce -- dat ri -- tu -- i  
+prae -- stet fi -- des sup -- ple -- men -- tum sen --  su -- um de -- fe -- ctu -- i  
+A -- men.  
+}
+wordsdefaultVB = \lyricmode {
+Ge -- ni -- to -- ri ge -- ni -- to -- que laus    et  ju -- bi -- la -- ti -- o 
+sa -- lus  ho -- nor vir -- tus  quo -- que sit et be -- ne -- di -- cti -- o  
+pro -- ce -- den -- ti ab    u -- tro -- que com --  par  sit lau -- da -- ti -- o  
+}
+voicedefault =  {
+\set Score.defaultBarType = ""
+
+%  Sample file to test various features of abc2ps
+ %  abcm2ps: default M is lowermordent
+ %  abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
+ % %glyph 2026 ellipsis
+ \time 3/4 \key f \major  \mark "1."  f'4    g'4 (   a'4  -) \bar "|"   g'4    f'2  
+	\bar "|"   bes'4    a'4 (   g'4  -) \bar "|"   a'4    g'2  \bar "|"   bes'8(    
+	a'8    g'8    f'8)    e'8(    d'8)  \bar "|"   c'2    c''4  \bar "|"   a'4    g'2  
+\bar "|"   f'2.  \bar "|"   \mark "2."  a'4    g'4 (   f'4  -) \bar "|"   e'4    f'2  
+\bar "|"   d'4    d'4 (   e'4  -) \bar "|"   f'4 (   c'4  -)   c''4  \bar "|"   
+bes'2    bes'4  \bar "|"   bes'2    a'4  \bar "|"   bes'4    c''4 (   c'4  -) 
+\bar "|"   f'2.  \bar "|"     
+\mark "3." 	c''4    c''2  \bar "|"   bes'4    a'2  \bar "|"   
+	f'8(    g'8    a'8    bes'8)    c''4  \bar "|"   f'4    e'2  \bar "|"   d'4(    
+	bes'8    a'8)    g'8(    f'8)  \bar "|"   e'2    f'4  \bar "|"   f'4    e'2  
+	\bar "|"   f'2. \bar ":|."   <<   f'2.    bes'2.   >> \bar "|" << f'2. a'2. >> \bar "||" 
+}
+
+\score{
+    <<
+
+	\context Staff="default"
+	{
+	    \voicedefault 
+	}
+
+	\addlyrics {
+ \wordsdefaultVA } 
+	\addlyrics {
+ \wordsdefaultVB } 
+    >>
+	\layout {
+ragged-last = ##t
+	}
+	\midi {}
+}
+\end{lilypond}
+
+Ave Maria
+
+\begin{lilypond}
+wordsdefaultVA = \lyricmode {
+A -- ve Ma -- ri -- a, gra -- ti -- a ple -- na, Do -- mi -- nus te -- cum.
+}
+wordsdefaultVB = \lyricmode {
+
+}
+
+voicedefault =  {
+\set Score.defaultBarType = ""
+
+%  Sample file to test various features of abc2ps
+ %  abcm2ps: default M is lowermordent
+ %  abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
+ % %glyph 2026 ellipsis
+ \time 4/4 \key g \major  \mark "1."  g'2    a'4  g'4 \bar "|"   fis'2    g'2  
+	\bar "|" b'2 c''4 b'4 \bar "|" a'2 b'2 \bar "|" 
+	g'2 e'4 c'4 \bar "|" d'2 g'2
+	\bar ":|." }
+
+\score{
+    <<
+
+	\context Staff="default"
+	{
+	    \voicedefault 
+	}
+
+	\addlyrics {
+ \wordsdefaultVA } 
+	\addlyrics {
+ \wordsdefaultVB } 
+    >>
+	\layout {
+	}
+	\midi {}
+}
+\end{lilypond}
+
+
+
+\end{document}
