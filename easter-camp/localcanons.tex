@@ -31,7 +31,7 @@
 
 \end{center}
 
-Tantum Ergo, 2017
+\subsection{Tantum Ergo, 2017}
 
 \begin{lilypond}
 wordsdefaultVA = \lyricmode {
@@ -85,7 +85,7 @@ ragged-last = ##t
 }
 \end{lilypond}
 
-Ave Maria
+\subsection{Ave Maria}
 
 \begin{lilypond}
 wordsdefaultVA = \lyricmode {
@@ -103,8 +103,8 @@ voicedefault =  {
  %  abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
  % %glyph 2026 ellipsis
  \time 4/4 \key g \major  \mark "1."  g'2    a'4  g'4 \bar "|"   fis'2    g'2  
-	\bar "|" b'2 c''4 b'4 \bar "|" a'2 b'2 \bar "|" 
-	g'2 e'4 c'4 \bar "|" d'2 g'2
+	\bar "|" \mark "2." b'2 c''4 b'4 \bar "|" a'2 b'2 \bar "|" 
+	\mark "3." g'2 e'4 c'4 \bar "|" d'2 g'2
 	\bar ":|." }
 
 \score{
@@ -126,6 +126,43 @@ voicedefault =  {
 }
 \end{lilypond}
 
+\subsection{Jubilate Deo}
+
+\begin{lilypond}
+wordsdefaultVA = \lyricmode {
+	Ju -- bi -- la -- te! Ju -- bi -- la -- te De -- o om -- nis ter -- ra, ju -- bi -- la -- te om -- nis ter -- ra. Psa -- li -- te in lae -- ti -- ti -- a.
+}
+
+voicedefault =   \relative c' {
+\set Score.defaultBarType = ""
+
+%  Sample file to test various features of abc2ps
+ %  abcm2ps: default M is lowermordent
+ %  abcm2ps >= 7.6.0 - definition of '...' (ellipsis) for PostScript
+ % %glyph 2026 ellipsis
+\time 4/2 \key g \major  \mark "1." g'2  g2 fis g \bar "|"   
+        \mark "2." g4 a b c8( b) a4 d b a
+	\bar "|" \mark "3." g2 d d g \bar "|" \mark "4." b4 c d c8( d) d4 a r4 d~ \bar "|" 
+	\mark "5." d8 d8 c4 b a8( g) a4 a g2
+	\bar ":|." }
+
+\score{
+    <<
+
+	\context Staff="default"
+	{
+	    \voicedefault 
+	}
+
+	\addlyrics {
+ \wordsdefaultVA } 
+    >>
+	\layout {
+	}
+	\midi {}
+}
+
+\end{lilypond}
 
 
 \end{document}
