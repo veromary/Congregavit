@@ -1,4 +1,4 @@
-\version "2.22.2"
+\version "2.22.1"
 
 \paper {
   top-margin = 20
@@ -78,7 +78,7 @@ harmonies = \chordmode {
       \set chordChanges = ##t
       \harmonies
     }
-    \new Voice = "one" { \autoBeamOff \melody }
+    \new Voice = "one" { \melody }
     \new Lyrics \lyricsto "one" \text
     \new Lyrics \lyricsto "one" \verseTwo
     \new Lyrics \lyricsto "one" \verseThree
