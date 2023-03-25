@@ -1,3 +1,0 @@
-@image{dc7b7277705deb7629bcf00cae41bcfb-1}
-@image{dc7b7277705deb7629bcf00cae41bcfb-2}
-@c eof
