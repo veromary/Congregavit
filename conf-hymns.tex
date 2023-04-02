@@ -1,18 +1,3 @@
-%\renewcommand{\headheight}{15pt}
-%%\renewcommand{\headsep}{0pt}
-%%\renewcommand{\topmargin}{-20pt}
-%%\renewcommand{\textwidth}{110mm}
-%\renewcommand{\textheight}{165mm}
-%\addtolength{\textwidth}{6mm}
-%%\addtolength{\voffset}{-22mm}
-%\addtolength{\topmargin}{-22mm}
-%%\addtolength{\hoffset}{-3mm}
-%\addtolength{\evensidemargin}{-3mm}
-%\addtolength{\oddsidemargin}{-3mm}
-
-
-%\newcommand{\copyrightinput}[1]{\input copyright/#1}
-
 \newcommand{\copyrightinput}[1]{\input copyright/#1}
 \newcommand{\unlikely}[1]{\input copyright/#1}
 \newcommand{\permissioned}[1]{\input copyright/#1}
@@ -104,15 +89,18 @@
 
 \newcommand\sidenote[1]{}
 
-\def\marginote#1{\marginpar{\textsf{%\footnotesize 
-                                      \scshape #1}}}
+%\def\presecposture#1
+\newcommand\presecposture[1]{\everypar={\marginpar{\fontsize{10}{10}\selectfont \textsf{\scshape #1}}\everypar={}}}
+%\newcommand\presecposture[1]{\marginnote{\textsf{\scshape #1}}}
+%\def\posture#1
+\newcommand\posture[1]{\marginpar{\fontsize{10}{10}\selectfont \textsf{\scshape #1}}}
 
-\def\stand{\marginote{\vskip2pt Stand}}
-\def\sit{\marginote{\quad Sit}}
-\def\kneel{\marginote{Kneel}}
-\def\HMstand{\marginote{Sung\vskip-3pt Mass\vskip-3pt Stand}}
-\def\ringbell{\marginote{\includegraphics[width=5mm]{bell}}}
-\def\threebell{\marginote{\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}}}
+\def\stand{\posture{Stand}}
+\def\sit{\posture{Sit}}
+\def\kneel{\posture{Kneel}}
+\def\HMstand{\posture{Sung Mass Stand}}
+\def\ringbell{\posture{\includegraphics[width=5mm]{bell}}}
+\def\threebell{\posture{\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}\includegraphics[width=5mm]{bell}}}
 
 
 % my First Line
@@ -131,10 +119,10 @@
 #1}}}}
 
 %\newcommand\pointtrans{\marginpar{\footnotesize Translation follows.}}%
-\newcommand\pointtrans{\marginpar{\raggedright\footnotesize For English see below.}}
+\newcommand\pointtrans{\marginnote{\raggedright\footnotesize For English see below.}}
 
 %\newcommand\pointorig{\marginpar{\footnotesize Original precedes.}}%
-\newcommand\pointorig{\marginpar{\raggedright\footnotesize For original see above.}}
+\newcommand\pointorig{\marginnote{\raggedright\footnotesize For original see above.}}
 
 
 %\newcommand\fortranC[1]{{\small \centering [\textit{For translation, see #1}]}}
@@ -437,4 +425,13 @@
 		   \item[]\ignorespaces}
 	       {\unskip\end{list}}
 
+\let\origsectionname\sectionname
+\newcommand{\sectionposture}[2]{%
+ % #1 = part title
+ % #2 = margin par
+ \expandafter\def\expandafter\sectionname\expandafter{\sectionname
+   \marginpar{\footnotesize\scshape{#2}}}%
+ \subsection*{#1}
+ \let\sectionname\origsectionname
+}
 

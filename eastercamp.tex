@@ -20,6 +20,7 @@
 \usepackage{lettrine}
 \usepackage{graphicx}
 \usepackage[autocompile]{gregoriotex}
+\usepackage{marginnote}
 %\settrimmedsize{9in}{6in}{*}
 \settrimmedsize{209mm}{140mm}{*}
 \setlength{\trimtop}{1mm}
@@ -147,6 +148,13 @@
 \vskip-\baselineskip
 }
 
+\title{Easter Camp Mass Book}
+
+%\date{22nd November 2011}
+
+\author{Veronica Brandt}
+
+
 
 
 \begin{document}
@@ -154,55 +162,6 @@
 \selectlanguage{british}
 
 \labelformat{hymnNo}{\upnums{#1}}
-
-\title{Congregavit nos in unum}
-
-%\date{22nd November 2011}
-
-\author{Veronica Brandt}
-
-{
-
-\ 
-
-%\maketitle
-
-%\centerline{version 3.00}
-
-\vfill
-
-\begin{center}
-{\HUGE \vectis Easter Week}
-
-\vskip10em
-
-{\scshape \Large a pew book}
-
-\bigskip
-
-%MMXVII
-MMXXIII
-
-\vskip6em
-
-\end{center}
-
-\vfill
-}
-
-\thispagestyle{empty}
-
-\pagestyle{empty}
-
-\newpage
-
-%~
-
-%\vfill
-
-%\input acknowledgements.tex
-
-%\eject
 
 \tableofcontents*
 
@@ -221,6 +180,11 @@ MMXXIII
 
 \input campeaster
 
+\section{Eucharistic}
+
+\label{CorpusChristi}
+
+
 \input campcorpusChristi
 
 %\input sacredheart
@@ -228,8 +192,8 @@ MMXXIII
 \input campchristking
 
 
-\def\tabmark{Marian Hymns}
-\chapter{Hymns for Mary}
+%\def\tabmark{Marian Hymns}
+\section{Marian}
 
 
 \input campourlady
@@ -237,11 +201,11 @@ MMXXIII
 
 %\def\tabmark{General Hymns}
 %\chapter{Hymns for Mass}
+\section{General}
 
 \input campgeneral
 
 %\input offertory
-
 
 
 %\include{confession}

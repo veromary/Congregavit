@@ -393,15 +393,9 @@ chants,}
 \vern{Amen.}
 \end{Parallel}
 
-\See{the Collect in the Proper of the Mass, HC p.~\pageref{hc-col}, BVM p.~\pageref{bvm-col}, SSJ p.~\pageref{ssj-col}, CRex p.~\pageref{cr-col}.}
-
-%\bigskip
-
+\presecposture{Sit}%
 \subsection*{The Epistle}
 
-\sit
-
-\See{the Epistle in the Proper of the Mass, HC p.~\pageref{hc-ep}, BVM p.~\pageref{bvm-ep}, SSJ p.~\pageref{ssj-ep}, CRex p.~\pageref{cr-ep}.}
 
 \rubrics{Then is read the Epistle for the day.  After which the servers respond:}
 
@@ -424,13 +418,17 @@ chants,}
 \gregorioscore{gabc/an--haec_dies--solesmes}
 
 %\begin{Parallel}{\gcolwidth}{\gcolwidth}
-%\latin{Haec dies quam fecit Dóminus: exsultémus, et laetémur in ea.}
+%	\latin{Haec dies quam fecit Dóminus: exsultémus, et laetémur in ea.}
 %\vern{This is the day that the Lord hath made: let us rejoice and be glad in it.}
 %\end{Parallel}
+
+\rubrics{Verse of the day follows.}
 
 \subsection*{Alleluia}
 
 \gregorioscore{gabc/alleluia-mode8}
+
+\rubrics{Verse of the day follows.}
 
 \subsection*{Sequence}
 
@@ -473,9 +471,9 @@ chants,}
 
 \twocolspace{0.3mm}
 
+\presecposture{Stand}%
 \subsection*{The Gospel}
 
-\stand
 
  \latin{\celebrant{Dóminus vobíscum.}}
  \vern{The Lord be with you.} 
@@ -501,20 +499,20 @@ chants,}
 \vern{Praise be to Thee, O Christ.}
 \end{Parallel}
 
+	\presecposture{Sit}%
 \subsection*{The Sermon}
 
 \rubrics{The priest or deacon may give a sermon.}
 
-\sit
 
 %\bigskip
 %\newpage
 
+\presecposture{Stand}%
 \subsection*{The Creed}
 
 \rubrics{The priest returns to the Altar and intones the Credo.}
 
-\stand
 
 \smallskip
 
@@ -591,11 +589,12 @@ chants,}
  \latin{\celebrant{Orémus.}}
  \vern{Let us pray.}
 
+\sit
+
 \rubrics{The priest reads the Offertory, which is sung by the choir.}
 
 \smallskip
 
-\sit
 
 \See{the Offertory in the Proper of the Mass, HC p.~\pageref{hc-off}, BVM p.~\pageref{bvm-off}, SSJ p.~\pageref{ssj-off}, CRex p.~\pageref{cr-off}.}
 
@@ -912,18 +911,18 @@ Lord. Amen.}
 
 \input preface-easter
 
-\smallskip
+%\smallskip
 
 %\rubrics{Bells are rung as the people sing the Sanctus from the Kyriale.}
-\threebell
-
-\kneel
-
-\smallskip
+%\smallskip
 
 \end{Parallel}
 
 %\eject
+\threebell
+
+\kneel
+
 
 \gregorioscore{kyriale/sanctus_I}
 
@@ -1034,8 +1033,8 @@ Lord. Amen.}
 %\rightline{\epsfxsize=8mm \epsfbox{bell.eps}}
 %\rightline{\includegraphics[width=8mm]{bell}}
 %\vskip-8mm
-\rubrics{A bell is rung to say that the consecration approaches.}
 \ringbell
+\rubrics{A bell is rung to say that the consecration approaches.}
 \smallskip
 
 \firstlatin{H}{anc igitur}{ oblatiónem ser\-vitútis nostr\ae, sed et cunct\ae\ famíli\ae\ tu\ae,
@@ -1049,6 +1048,12 @@ damnation and numbered in the flock of Thine elect. Through Christ
 our Lord. Amen.}
 
 \smallskip
+
+\begin{figure}
+	\centering
+\includegraphics[width=\textwidth]{images/themass14.pdf}
+\end{figure}
+
 
 \latin{Quam oblatiónem
 tu, Deus, in ómnibus, qu\'\ae\-sumus, benedíc\-tam, \maltese adscríptam, \maltese
@@ -1083,9 +1088,9 @@ to His disciples, saying: Take and eat ye all of this.}
 \smallskip
 
 
+\threebell
 \rubrics{The priest genuflects, elevates the Sacred Host and
 genuflects again. \\ Bells are rung thrice.}
-\threebell
 
 %\rightline{\epsfxsize=8mm \epsfbox{bell.eps} 
 %\epsfxsize=8mm \epsfbox{bell.eps} 
@@ -1097,11 +1102,6 @@ genuflects again. \\ Bells are rung thrice.}
 %\textsf{\textsc{\small consecration of the wine}}{\small \par}
 
 %\centerline{\includegraphics[width=\textwidth]{images/themass14.pdf}}
-\begin{figure}
-	\centering
-\includegraphics[width=\textwidth]{images/themass14.pdf}
-\end{figure}
-
 
 %\eject
 
@@ -1136,6 +1136,7 @@ remembrance of Me.}
 
 \bigskip
 
+\threebell
 \rubrics{The priest genuflects, elevates the Chalice and genuflects
 again.  Bells are rung thrice.}
 
@@ -1145,7 +1146,6 @@ again.  Bells are rung thrice.}
 %\rightline{\includegraphics[width=8mm]{bell}
 %\includegraphics[width=8mm]{bell}
 %\includegraphics[width=8mm]{bell}}
-\threebell
 
 %\textsf{\textsc{\small to offer the victim}}{\small \par}
 
@@ -1630,9 +1630,9 @@ have refreshed. Who livest and reignest for ever and ever. Amen.}
 
 \normalsize%\font\gregoriosymbolfont=gresym at \regularR
 
+\presecposture{Sung Mass Stand}
 \section*{Postcommunion}
 
-\HMstand
 \begin{Parallel}{\gcolwidth}{\gcolwidth}
  \latin{\celebrant{Dóminus vobíscum.}}
 \vern{The Lord be with you.}
@@ -1715,10 +1715,10 @@ blesses the congregation (except at Masses for the dead) saying,}
 \vern{Amen.}
 \end{Parallel}
 
-
+%\presecposture{Stand}%
 \subsection*{The Last Gospel}
-\stand
 
+\stand
 \begin{Parallel}{\gcolwidth}{\gcolwidth}
  \latin{\Vbar Dóminus vobiscum.}
 \vern{The Lord be with you.} 
@@ -1778,8 +1778,7 @@ nor of the will of man, but of God.}
 \vern{\textsc{\normalsize And the Word was made flesh,}} 
 
 
-\stand
-\latin{et habitávit in nobis; et vídimus glóriam ejus glóriam
+\stand\latin{et habitávit in nobis; et vídimus glóriam ejus glóriam
 quasi Unigéniti a Patre, plenum grátiae et veritátis.}
 \vern{and dwelt among us, and we beheld His glory, the glory as of the Only-begotten
 of the Father, full of grace and truth.}
@@ -1793,6 +1792,7 @@ of the Father, full of grace and truth.}
 \bigskip
 
 \normalsize
+
 
 \input prayersafterlowmasseng
 
